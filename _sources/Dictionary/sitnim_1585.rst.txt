@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sitnîm : gum (of teeth) (N1).
+==============================
+
+
+sitnim
+
+
+.. raw:: html
+
+   </div>
+
+sitnîm (n) (LHL) gum (of teeth) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sitnim.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

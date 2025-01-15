@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+omflebânamin : miss (with missile), come close (PFV).
+======================================================
+
+
+omflebanamin
+
+
+.. raw:: html
+
+   </div>
+
+omflebânamin (v/tr) (?LHL) miss (with missile), come close (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_omflebanamin.QLHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kenamin : do (function verb) (BI-ASP/PFV).
+===========================================
+
+
+kenamin
+
+
+.. raw:: html
+
+   </div>
+
+kenamin (v/func) (L) do (function verb) (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kenamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

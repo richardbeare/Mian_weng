@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kimik : mouth (N1).
+====================
+
+
+kimik
+
+
+.. raw:: html
+
+   </div>
+
+kimik (n) (?L) mouth (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kimik.QL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

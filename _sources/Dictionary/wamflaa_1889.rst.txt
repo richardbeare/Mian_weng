@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wamflaa : fly around, fly in circles; chase around.
+====================================================
+
+
+wamflaa
+
+
+.. raw:: html
+
+   </div>
+
+wamflaa (v/intr) (L) fly around, fly in circles; chase around.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wamflaa.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

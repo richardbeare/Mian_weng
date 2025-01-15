@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+yefamàk : somewhere around there.
+==================================
+
+
+yefamak
+
+
+.. raw:: html
+
+   </div>
+
+yefamàk (adv) (HL) somewhere around there.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_yefamak.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

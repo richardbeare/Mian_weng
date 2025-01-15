@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+obtunùmin : put fire to, light (IPFV).
+=======================================
+
+
+obtunumin
+
+
+.. raw:: html
+
+   </div>
+
+obtunùmin (v/tr) (HL) put fire to, light (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_obtunumin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

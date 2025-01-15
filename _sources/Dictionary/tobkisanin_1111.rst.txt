@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tobkisânin : put in the fire (IPFV).
+=====================================
+
+
+tobkisanin
+
+
+.. raw:: html
+
+   </div>
+
+tobkisânin (v/tr) (LHL) put in the fire (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tobkisanin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

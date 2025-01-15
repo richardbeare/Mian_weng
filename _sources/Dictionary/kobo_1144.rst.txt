@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kōbo : you (SG M).
+===================
+
+
+kobo
+
+
+.. raw:: html
+
+   </div>
+
+kōbo (pron) (H) you (SG M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kobo.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kimaanîn : boss, caretaker (M).
+================================
+
+
+kimaanin
+
+
+.. raw:: html
+
+   </div>
+
+kimaanîn (n) (LHL) boss, caretaker (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kimaanin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

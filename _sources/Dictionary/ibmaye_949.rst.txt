@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ībmaye : yourselves.
+=====================
+
+
+ibmaye
+
+
+.. raw:: html
+
+   </div>
+
+ībmaye (pron) (H) yourselves.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ibmaye.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

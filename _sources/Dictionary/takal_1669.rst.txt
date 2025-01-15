@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+takal : rotten meat (N1).
+==========================
+
+
+takal NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+takal (n) (L) rotten meat (N1).
+
+

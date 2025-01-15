@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+walbìmin : clear (bush).
+=========================
+
+
+walbimin
+
+
+.. raw:: html
+
+   </div>
+
+walbìmin (v/tr) (HL) clear (bush).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_walbimin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

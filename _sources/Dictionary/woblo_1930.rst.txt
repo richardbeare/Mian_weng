@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wōblo : cone-shaped shell (N1).
+================================
+
+
+woblo
+
+
+.. raw:: html
+
+   </div>
+
+wōblo (n) (H) cone-shaped shell (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_woblo.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

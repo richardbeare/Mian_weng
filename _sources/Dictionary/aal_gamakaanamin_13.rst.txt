@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aal gamakâa’namin : not to feel guilty, be unashamed, be unafraid.
+===================================================================
+
+
+aal_gamakaanamin
+
+
+.. raw:: html
+
+   </div>
+
+aal gamakâa’namin (v/intr) (L/LHL) not to feel guilty, be unashamed, be unafraid.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aal_gamakaanamin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

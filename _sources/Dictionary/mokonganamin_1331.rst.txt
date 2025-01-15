@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mokongà’namin : become emaciated (PFV).
+========================================
+
+
+mokonganamin
+
+
+.. raw:: html
+
+   </div>
+
+mokongà’namin (v/intr) (?HL) become emaciated (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mokonganamin.QHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+beismal : in-law (M/F).
+========================
+
+
+beismal
+
+
+.. raw:: html
+
+   </div>
+
+beismal (n) (L) in-law (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_beismal.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

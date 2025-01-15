@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bikìnamin : sew; be blocked (by vegetation) (PFV).
+===================================================
+
+
+bikinamin
+
+
+.. raw:: html
+
+   </div>
+
+bikìnamin (v/ambitr) (HL) sew; be blocked (by vegetation) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bikinamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bimal eit : Lesser bird of paradise (male bird). Paradisaea minor (F).
+=======================================================================
+
+
+bimal_eit
+
+
+.. raw:: html
+
+   </div>
+
+bimal eit (n) (L/L) Lesser bird of paradise (male bird). Paradisaea minor (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bimal_eit.L-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

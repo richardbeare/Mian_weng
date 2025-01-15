@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bukuyók : rifle (N1).
+======================
+
+
+bukuyok
+
+
+.. raw:: html
+
+   </div>
+
+bukuyók (n) (LH) rifle (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bukuyok.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

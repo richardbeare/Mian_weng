@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afilāfil : twins, esp. wilds pigs (M/F). (redup)
+=================================================
+
+
+afilafil
+
+
+.. raw:: html
+
+   </div>
+
+afilāfil (n) (LH) twins, esp. wilds pigs (M/F). (redup)
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afilafil.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

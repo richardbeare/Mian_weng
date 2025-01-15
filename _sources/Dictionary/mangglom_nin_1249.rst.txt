@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mangglom nin : wail, cry (only PL subject) (PFV).
+==================================================
+
+
+mangglom_nin
+
+
+.. raw:: html
+
+   </div>
+
+mangglom nin (v/intr) (L/L) wail, cry (only PL subject) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mangglom_nin.L-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

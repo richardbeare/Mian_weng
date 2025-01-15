@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+oloskîl : herself.
+===================
+
+
+oloskil
+
+
+.. raw:: html
+
+   </div>
+
+oloskîl (pron) (LHL) herself.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_oloskil.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

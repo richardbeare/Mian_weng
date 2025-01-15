@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ket : flower; blossom (N1).
+============================
+
+
+ket NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+ket (n) (L) flower; blossom (N1).
+
+

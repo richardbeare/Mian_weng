@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atbêl : long piece of wood, ?splinter (N1).
+============================================
+
+
+atbel
+
+
+.. raw:: html
+
+   </div>
+
+atbêl (n) (LHL) long piece of wood, ?splinter (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_atbel.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

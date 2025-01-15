@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bobolanamin : come together forming a crowd (PFV).
+===================================================
+
+
+bobolanamin
+
+
+.. raw:: html
+
+   </div>
+
+bobolanamin (v/intr) (L) come together forming a crowd (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bobolanamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dlà kibilânamin : hold down and squash by sitting upon (PFV).
+==============================================================
+
+
+dla_kibilanamin
+
+
+.. raw:: html
+
+   </div>
+
+dlà kibilânamin (svc/tr) (HL/LHL) hold down and squash by sitting upon (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dla_kibilanamin.HL-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

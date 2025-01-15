@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ablam : nut species (?Galip nut). Canarium indicum (N1).
+=========================================================
+
+
+ablam
+
+
+.. raw:: html
+
+   </div>
+
+ablam (n) (L) nut species (?Galip nut). Canarium indicum (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ablam.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

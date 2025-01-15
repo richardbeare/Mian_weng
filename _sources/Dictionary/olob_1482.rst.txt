@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ōlob : you (F) alone; 2Sg Feminine (‘alone’ series).
+=====================================================
+
+
+olob
+
+
+.. raw:: html
+
+   </div>
+
+ōlob (pron) (H) you (F) alone; 2Sg Feminine (‘alone’ series).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_olob.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

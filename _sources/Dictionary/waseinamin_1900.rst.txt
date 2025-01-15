@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wasêinamin : take someone’s place (PFV).
+=========================================
+
+
+waseinamin
+
+
+.. raw:: html
+
+   </div>
+
+wasêinamin (v/intr) (LHL) take someone’s place (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_waseinamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bangbáng : clap hands.
+=======================
+
+
+bangbang
+
+
+.. raw:: html
+
+   </div>
+
+bangbáng (id) (LH) clap hands.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bangbang.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

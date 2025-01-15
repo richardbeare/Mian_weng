@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kikì’min : share (BI-ASP/IPFV).
+================================
+
+
+kikimin
+
+
+.. raw:: html
+
+   </div>
+
+kikì’min (v/tr) (HL) share (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kikimin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

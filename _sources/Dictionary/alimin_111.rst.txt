@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alimin : squeeze pandanus sauce (onto taro dough) (BI-ASP/IPFV).
+=================================================================
+
+
+alimin
+
+
+.. raw:: html
+
+   </div>
+
+alimin (v/tr) (L) squeeze pandanus sauce (onto taro dough) (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alimin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

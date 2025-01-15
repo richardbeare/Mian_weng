@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kibi : face (N2).
+==================
+
+
+kibi
+
+
+.. raw:: html
+
+   </div>
+
+kibi (n) (L) face (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kibi.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

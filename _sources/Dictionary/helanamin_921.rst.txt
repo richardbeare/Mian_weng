@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+helânamin : break, traverse (PFV).
+===================================
+
+
+helanamin
+
+
+.. raw:: html
+
+   </div>
+
+helânamin (v/ambitr) (LHL) break, traverse (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_helanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

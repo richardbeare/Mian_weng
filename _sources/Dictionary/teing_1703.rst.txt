@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+teing : shoulder (N1).
+=======================
+
+
+teing NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+teing (n) (L) shoulder (N1).
+
+

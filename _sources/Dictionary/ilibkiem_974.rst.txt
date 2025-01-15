@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ilibkiêm : only you (PL) alone.
+================================
+
+
+ilibkiem
+
+
+.. raw:: html
+
+   </div>
+
+ilibkiêm (pron) (LHL) only you (PL) alone.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ilibkiem.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+meimēi : earthquake (N1). (redup).
+===================================
+
+
+meimei
+
+
+.. raw:: html
+
+   </div>
+
+meimēi (n) (LH) earthquake (N1). (redup).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_meimei.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dōungo wâ’namin : erratic movement under cover or leaves, movement of child in womb (PFV).
+===========================================================================================
+
+
+doungo_wanamin
+
+
+.. raw:: html
+
+   </div>
+
+dōungo wâ’namin (v/intr) (H/LHL) erratic movement under cover or leaves, movement of child in womb (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_doungo_wanamin.H-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

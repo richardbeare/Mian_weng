@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+angkikînamin : be alert, be forearmed (PFV).
+=============================================
+
+
+angkikinamin
+
+
+.. raw:: html
+
+   </div>
+
+angkikînamin (v/intr) (LHL) be alert, be forearmed (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_angkikinamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nikitneket : creak.
+====================
+
+
+nikitneket
+
+
+.. raw:: html
+
+   </div>
+
+nikitneket (id) (?) creak.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nikitneket.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

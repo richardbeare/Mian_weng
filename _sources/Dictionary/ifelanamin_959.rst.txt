@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ifelâ’namin : scrape ash off baked taro (PFV).
+===============================================
+
+
+ifelanamin
+
+
+.. raw:: html
+
+   </div>
+
+ifelâ’namin (v/tr) (LHL) scrape ash off baked taro (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ifelanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

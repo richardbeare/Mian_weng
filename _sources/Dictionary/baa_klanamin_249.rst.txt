@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+baa klânamin : settle argument (BI-ASP/PFV).
+=============================================
+
+
+baa_klanamin
+
+
+.. raw:: html
+
+   </div>
+
+baa klânamin (svc/tr) (L/LHL) settle argument (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_baa_klanamin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

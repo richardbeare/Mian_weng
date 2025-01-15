@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dam : true.
+============
+
+
+dam NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+dam (adj) (L) true.
+
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Sobinìng : Sobining.
+=====================
+
+
+Sobining
+
+
+.. raw:: html
+
+   </div>
+
+Sobinìng (pn) (HL) Sobining.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Sobining.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

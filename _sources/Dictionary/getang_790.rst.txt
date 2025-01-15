@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+getáng : clear up (weather), brighten up.
+==========================================
+
+
+getang
+
+
+.. raw:: html
+
+   </div>
+
+getáng (id) (LH) clear up (weather), brighten up.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_getang.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

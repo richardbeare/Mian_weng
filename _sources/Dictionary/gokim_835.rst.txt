@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gokîm : head louse (F).
+========================
+
+
+gokim
+
+
+.. raw:: html
+
+   </div>
+
+gokîm (n) (LHL) head louse (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gokim.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aliam : shoot, grass, weed that grows in the garden (N1).
+==========================================================
+
+
+aliam
+
+
+.. raw:: html
+
+   </div>
+
+aliam (n) (L) shoot, grass, weed that grows in the garden (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aliam.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

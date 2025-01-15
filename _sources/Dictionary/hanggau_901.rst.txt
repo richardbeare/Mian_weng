@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+hanggáu : again (repeating the action of the succeeding verb).
+===============================================================
+
+
+hanggau
+
+
+.. raw:: html
+
+   </div>
+
+hanggáu (adv) (LH) again (repeating the action of the succeeding verb).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_hanggau.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

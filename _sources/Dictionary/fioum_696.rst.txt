@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fīoum : sterile, barren (of females).
+======================================
+
+
+fioum
+
+
+.. raw:: html
+
+   </div>
+
+fīoum (adj) (H) sterile, barren (of females).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fioum.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

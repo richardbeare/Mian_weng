@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+naa tlemin : come back, return (PFV).
+======================================
+
+
+naa_tlemin
+
+
+.. raw:: html
+
+   </div>
+
+naa tlemin (svc/intr) (L/L) come back, return (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_naa_tlemin.L-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

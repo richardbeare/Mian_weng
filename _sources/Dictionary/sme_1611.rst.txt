@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+smē : cave, overhanging rock (N2).
+===================================
+
+
+sme
+
+
+.. raw:: html
+
+   </div>
+
+smē (n) (H) cave, overhanging rock (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sme.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

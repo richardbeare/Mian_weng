@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Mendeng : Madang (capital of Madang province).
+===============================================
+
+
+Mendeng
+
+
+.. raw:: html
+
+   </div>
+
+Mendeng (pn) (L) Madang (capital of Madang province).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Mendeng.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bil : flat area or ground (N2).
+================================
+
+
+bil NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+bil (n) (L) flat area or ground (N2).
+
+

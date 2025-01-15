@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tōns : thongs (N1). (TP).
+===========================
+
+
+tons
+
+
+.. raw:: html
+
+   </div>
+
+tōns (n) (H) thongs (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tons.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

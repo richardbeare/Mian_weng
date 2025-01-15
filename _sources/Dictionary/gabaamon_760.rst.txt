@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gabaamôn : head, skull (N1).
+=============================
+
+
+gabaamon
+
+
+.. raw:: html
+
+   </div>
+
+gabaamôn (n) (LHL) head, skull (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gabaamon.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

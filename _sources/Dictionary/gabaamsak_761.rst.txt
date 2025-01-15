@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gabaamsâk : owner (M).
+=======================
+
+
+gabaamsak
+
+
+.. raw:: html
+
+   </div>
+
+gabaamsâk (n) (LHL) owner (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gabaamsak.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

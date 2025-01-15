@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ganmeit : snake species (M).
+=============================
+
+
+ganmeit
+
+
+.. raw:: html
+
+   </div>
+
+ganmeit (n) (L) snake species (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ganmeit.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

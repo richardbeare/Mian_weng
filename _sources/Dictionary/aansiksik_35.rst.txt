@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+áansiksik : flotsam (N1).
+==========================
+
+
+aansiksik
+
+
+.. raw:: html
+
+   </div>
+
+áansiksik (n) (LH) flotsam (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aansiksik.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

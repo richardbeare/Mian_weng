@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bikàmin : close, squeeze; pierce (e.g. insect bites), nail; explode (IPFV).
+============================================================================
+
+
+bikamin
+
+
+.. raw:: html
+
+   </div>
+
+bikàmin (v/ambitr) (HL) close, squeeze; pierce (e.g. insect bites), nail; explode (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bikamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

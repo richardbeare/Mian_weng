@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sinâ’namin : rest from work (PFV).
+===================================
+
+
+sinanamin
+
+
+.. raw:: html
+
+   </div>
+
+sinâ’namin (v/intr) (LHL) rest from work (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sinanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

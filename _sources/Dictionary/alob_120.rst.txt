@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alób : tail feather (N1).
+==========================
+
+
+alob
+
+
+.. raw:: html
+
+   </div>
+
+alób (n) (LH) tail feather (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alob.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kwél : hornbill (M/F).
+=======================
+
+
+kwel
+
+
+.. raw:: html
+
+   </div>
+
+kwél (n) (LH) hornbill (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kwel.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

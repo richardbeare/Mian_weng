@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+boumin : beat (with palm); strum (guitar) (BI-ASP/IPFV).
+=========================================================
+
+
+boumin
+
+
+.. raw:: html
+
+   </div>
+
+boumin (v/tr) (L) beat (with palm); strum (guitar) (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_boumin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wāngon : shin bone (N1).
+==========================
+
+
+wangon
+
+
+.. raw:: html
+
+   </div>
+
+wāngon (n) (H) shin bone (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wangon.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

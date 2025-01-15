@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+flouflou : flap (of large birds’ wings and other flat object, e.g. a piece of tree bark).
+==========================================================================================
+
+
+flouflou
+
+
+.. raw:: html
+
+   </div>
+
+flouflou (id) (?) flap (of large birds’ wings and other flat object, e.g. a piece of tree bark).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_flouflou.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

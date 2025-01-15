@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tantalibô : ?Common Koel. Eudynamys scolopacea (M).
+====================================================
+
+
+tantalibo
+
+
+.. raw:: html
+
+   </div>
+
+tantalibô (n) (LHL) ?Common Koel. Eudynamys scolopacea (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tantalibo.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

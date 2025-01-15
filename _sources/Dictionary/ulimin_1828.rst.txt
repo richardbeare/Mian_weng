@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ulî’min : make a thread or rope by rubbing fibre (IPFV).
+=========================================================
+
+
+ulimin
+
+
+.. raw:: html
+
+   </div>
+
+ulî’min (v/tr) (LHL) make a thread or rope by rubbing fibre (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ulimin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

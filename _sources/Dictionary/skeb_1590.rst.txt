@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+skéb : side of house (N1).
+===========================
+
+
+skeb
+
+
+.. raw:: html
+
+   </div>
+
+skéb (n) (LH) side of house (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_skeb.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

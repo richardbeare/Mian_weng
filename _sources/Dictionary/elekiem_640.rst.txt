@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+elekiêm : one (N1).
+====================
+
+
+elekiem
+
+
+.. raw:: html
+
+   </div>
+
+elekiêm (num) (LHL) one (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_elekiem.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

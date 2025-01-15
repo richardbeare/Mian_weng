@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kingkan : shaman (M).
+======================
+
+
+kingkan
+
+
+.. raw:: html
+
+   </div>
+
+kingkan (n) (L) shaman (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kingkan.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

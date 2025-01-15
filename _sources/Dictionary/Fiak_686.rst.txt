@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Fiak : Fiak (name of river and Mianmin settlement on that river).
+==================================================================
+
+
+Fiak
+
+
+.. raw:: html
+
+   </div>
+
+Fiak (pn) (?L) Fiak (name of river and Mianmin settlement on that river).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Fiak.QL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

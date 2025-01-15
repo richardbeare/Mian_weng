@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aboiá : Hooded Butcherbird. Cracticus cassicus (F).
+====================================================
+
+
+aboia
+
+
+.. raw:: html
+
+   </div>
+
+aboiá (n) (LH) Hooded Butcherbird. Cracticus cassicus (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aboia.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

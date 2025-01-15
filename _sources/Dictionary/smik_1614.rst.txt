@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+smík : shadow (N1).
+====================
+
+
+smik NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+smík (n) (LH) shadow (N1).
+
+

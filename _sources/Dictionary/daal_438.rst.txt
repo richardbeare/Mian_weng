@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+daal : large bamboo species (N1).
+==================================
+
+
+daal
+
+
+.. raw:: html
+
+   </div>
+
+daal (n) (L) large bamboo species (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_daal.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

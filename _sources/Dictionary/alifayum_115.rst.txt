@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alifayum : Kingfisher. Halcyon (F).
+====================================
+
+
+alifayum
+
+
+.. raw:: html
+
+   </div>
+
+alifayum (n) (L) Kingfisher. Halcyon (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alifayum.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

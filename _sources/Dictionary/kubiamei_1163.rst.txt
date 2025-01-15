@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kubiamei : Pinon Imperial-pigeon. Ducula pinon (M).
+====================================================
+
+
+kubiamei
+
+
+.. raw:: html
+
+   </div>
+
+kubiamei (n) (L) Pinon Imperial-pigeon. Ducula pinon (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kubiamei.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

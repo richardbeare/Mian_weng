@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+saayón : Blyth’s Hornbill. Aceros plicatus (M/F).
+==================================================
+
+
+saayon
+
+
+.. raw:: html
+
+   </div>
+
+saayón (n) (LH) Blyth’s Hornbill. Aceros plicatus (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_saayon.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

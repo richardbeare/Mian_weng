@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+awitnîn : star(s) (N2).
+========================
+
+
+awitnin
+
+
+.. raw:: html
+
+   </div>
+
+awitnîn (n) (LHL) star(s) (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_awitnin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

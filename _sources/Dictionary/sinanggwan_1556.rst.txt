@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sinanggwán : a long time ago, in days of yore.
+===============================================
+
+
+sinanggwan
+
+
+.. raw:: html
+
+   </div>
+
+sinanggwán (tn) (LH) a long time ago, in days of yore.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sinanggwan.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sīo : Grey-streaked Hoeneyeater. Ptiloprora perstriata (M).
+=============================================================
+
+
+sio
+
+
+.. raw:: html
+
+   </div>
+
+sīo (n) (H) Grey-streaked Hoeneyeater. Ptiloprora perstriata (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sio.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

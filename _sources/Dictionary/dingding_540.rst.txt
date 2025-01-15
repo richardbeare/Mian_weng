@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dingding : fine rhizomes/root of taro plant (N1).
+==================================================
+
+
+dingding
+
+
+.. raw:: html
+
+   </div>
+
+dingding (n) (L) fine rhizomes/root of taro plant (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dingding.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kebtà : you (SG, M, EMPH).
+===========================
+
+
+kebta
+
+
+.. raw:: html
+
+   </div>
+
+kebtà (pron) (H) you (SG, M, EMPH).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kebta.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

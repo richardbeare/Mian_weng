@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bèn : pen (N1). (TP).
+======================
+
+
+ben
+
+
+.. raw:: html
+
+   </div>
+
+bèn (n) (HL) pen (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ben.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

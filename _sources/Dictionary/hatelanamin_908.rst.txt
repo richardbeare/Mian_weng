@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+hatelâ’namin : pull towards oneself (PFV).
+===========================================
+
+
+hatelanamin
+
+
+.. raw:: html
+
+   </div>
+
+hatelâ’namin (v/tr) (LHL) pull towards oneself (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_hatelanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

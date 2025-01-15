@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+seilâ’namin : be happy, rejoice (PFV).
+=======================================
+
+
+seilanamin
+
+
+.. raw:: html
+
+   </div>
+
+seilâ’namin (v/intr) (LHL) be happy, rejoice (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_seilanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

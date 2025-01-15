@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atol : year (N1).
+==================
+
+
+atol
+
+
+.. raw:: html
+
+   </div>
+
+atol (n) (L) year (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_atol.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

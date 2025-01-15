@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tlinggwêi : Red-cheeked Parrot. Geoffroyus geoffroyi (M).
+==========================================================
+
+
+tlinggwei
+
+
+.. raw:: html
+
+   </div>
+
+tlinggwêi (n) (LHL) Red-cheeked Parrot. Geoffroyus geoffroyi (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tlinggwei.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

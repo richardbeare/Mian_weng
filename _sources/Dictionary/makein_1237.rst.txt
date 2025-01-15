@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+makein : female in-laws of a woman (F).
+========================================
+
+
+makein
+
+
+.. raw:: html
+
+   </div>
+
+makein (n) (L) female in-laws of a woman (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_makein.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

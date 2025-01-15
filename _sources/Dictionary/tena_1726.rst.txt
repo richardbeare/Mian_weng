@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tenâ : arrow shaft (N1).
+=========================
+
+
+tena
+
+
+.. raw:: html
+
+   </div>
+
+tenâ (n) (LHL) arrow shaft (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tena.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

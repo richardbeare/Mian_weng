@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ngáamein : yellow.
+===================
+
+
+ngaamein
+
+
+.. raw:: html
+
+   </div>
+
+ngáamein (adj) (LH) yellow.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ngaamein.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

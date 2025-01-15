@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Yābsi : Yapsiei (government station about north-east from Mianmin on the August river.
+========================================================================================
+
+
+Yabsi
+
+
+.. raw:: html
+
+   </div>
+
+Yābsi (pn) (H) Yapsiei (government station about north-east from Mianmin on the August river.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Yabsi.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

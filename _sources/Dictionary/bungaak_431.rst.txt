@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bungaak : Rail. Rallina (M).
+=============================
+
+
+bungaak
+
+
+.. raw:: html
+
+   </div>
+
+bungaak (n) (L) Rail. Rallina (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bungaak.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

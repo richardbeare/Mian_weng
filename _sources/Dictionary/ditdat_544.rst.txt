@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ditdat : move and make a noise (so that e.g. a pig runs away).
+===============================================================
+
+
+ditdat
+
+
+.. raw:: html
+
+   </div>
+
+ditdat (id) (?L) move and make a noise (so that e.g. a pig runs away).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ditdat.QL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

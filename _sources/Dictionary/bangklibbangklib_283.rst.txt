@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bangklibbangklib : revolve (e.g. unscrew a lid, turning propellers, winding up a watch).
+=========================================================================================
+
+
+bangklibbangklib
+
+
+.. raw:: html
+
+   </div>
+
+bangklibbangklib (id) (L) revolve (e.g. unscrew a lid, turning propellers, winding up a watch).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bangklibbangklib.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

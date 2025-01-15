@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kweim : fever, malaria, headache (N2).
+=======================================
+
+
+kweim
+
+
+.. raw:: html
+
+   </div>
+
+kweim (n) (L) fever, malaria, headache (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kweim.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

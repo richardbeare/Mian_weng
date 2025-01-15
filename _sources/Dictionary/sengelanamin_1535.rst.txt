@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sengelâ’namin : pour (PL object) (BI-ASP/PFV).
+===============================================
+
+
+sengelanamin
+
+
+.. raw:: html
+
+   </div>
+
+sengelâ’namin (v/tr) (LHL) pour (PL object) (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sengelanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

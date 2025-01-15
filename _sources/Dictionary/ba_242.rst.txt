@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ba : er (interjection indicating hesitation, possible source baa ‘say (PFV).’).
+================================================================================
+
+
+ba
+
+
+.. raw:: html
+
+   </div>
+
+ba (interj) (n/a) er (interjection indicating hesitation, possible source baa ‘say (PFV).’).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ba.n-a.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

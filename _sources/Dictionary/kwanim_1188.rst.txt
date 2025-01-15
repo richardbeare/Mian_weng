@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kwànim : Long-billed Cuckoo. Rhamphomantis megarhynchus (M).
+=============================================================
+
+
+kwanim
+
+
+.. raw:: html
+
+   </div>
+
+kwànim (n) (HL) Long-billed Cuckoo. Rhamphomantis megarhynchus (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kwanim.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

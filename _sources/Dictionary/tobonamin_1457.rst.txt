@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tobònamin : take, pick up (PFV).
+=================================
+
+
+tobonamin
+
+
+.. raw:: html
+
+   </div>
+
+tobònamin (v/tr) (HL) take, pick up (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tobonamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sībsib : off-colour.
+======================
+
+
+sibsib
+
+
+.. raw:: html
+
+   </div>
+
+sībsib (adv) (H) off-colour.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sibsib.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dlibênamin : go together (BI-ASP/PFV).
+=======================================
+
+
+dlibenamin
+
+
+.. raw:: html
+
+   </div>
+
+dlibênamin (v/tr) (LHL) go together (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dlibenamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tetabumin : toe (N1).
+======================
+
+
+tetabumin
+
+
+.. raw:: html
+
+   </div>
+
+tetabumin (n) (L) toe (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tetabumin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

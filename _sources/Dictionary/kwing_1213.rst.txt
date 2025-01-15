@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kwīng : shoulder (N1).
+=======================
+
+
+kwing
+
+
+.. raw:: html
+
+   </div>
+
+kwīng (n) (H) shoulder (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kwing.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

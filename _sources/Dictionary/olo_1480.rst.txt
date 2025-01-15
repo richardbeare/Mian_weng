@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ōlo : this (F, PROX); these (PL N1, PROX); this, these (N2, proximal).
+=======================================================================
+
+
+olo
+
+
+.. raw:: html
+
+   </div>
+
+ōlo (pron) (H) this (F, PROX); these (PL N1, PROX); this, these (N2, proximal).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_olo.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

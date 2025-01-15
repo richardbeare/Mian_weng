@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ēlemi : his (M) alone, its (N1) alone.
+=======================================
+
+
+elemi
+
+
+.. raw:: html
+
+   </div>
+
+ēlemi (pron) (LHL) his (M) alone, its (N1) alone.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_elemi.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

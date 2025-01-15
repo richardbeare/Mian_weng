@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+munungsìn : front, bow (N1).
+=============================
+
+
+munungsin
+
+
+.. raw:: html
+
+   </div>
+
+munungsìn (n) (HL) front, bow (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_munungsin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

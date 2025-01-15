@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dosìn : side where the stem (of a fruit is) (N1).
+==================================================
+
+
+dosin
+
+
+.. raw:: html
+
+   </div>
+
+dosìn (n) (HL) side where the stem (of a fruit is) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dosin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

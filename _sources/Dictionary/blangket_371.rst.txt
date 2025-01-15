@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blangket : blanket (also flangget) (N1). (TP).
+===============================================
+
+
+blangket
+
+
+.. raw:: html
+
+   </div>
+
+blangket (n) (L) blanket (also flangget) (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_blangket.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

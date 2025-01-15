@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+êimin : accumulate (water); impound (water) (BI-ASP/IPFV).
+===========================================================
+
+
+eimin
+
+
+.. raw:: html
+
+   </div>
+
+êimin (v/ambitr) (LHL) accumulate (water); impound (water) (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_eimin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

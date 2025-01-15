@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alelmelêl : family (alél ‘wife’ and melel ‘children’) (PL).
+============================================================
+
+
+alelmelel
+
+
+.. raw:: html
+
+   </div>
+
+alelmelêl (n) (LHL) family (alél ‘wife’ and melel ‘children’) (PL).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alelmelel.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

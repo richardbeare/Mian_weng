@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gáa : caterpillar species who spin webs with a rust-brown thread (M).
+======================================================================
+
+
+gaa
+
+
+.. raw:: html
+
+   </div>
+
+gáa (n) (LH) caterpillar species who spin webs with a rust-brown thread (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gaa.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

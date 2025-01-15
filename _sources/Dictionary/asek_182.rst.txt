@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+asèk : namesake (M/F).
+=======================
+
+
+asek
+
+
+.. raw:: html
+
+   </div>
+
+asèk (n) (HL) namesake (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_asek.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

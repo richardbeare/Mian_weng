@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+menyèmin : touch (IPFV).
+=========================
+
+
+menyemin
+
+
+.. raw:: html
+
+   </div>
+
+menyèmin (v/tr) (HL) touch (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_menyemin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tobkimà’namin : put in the fire (PFV).
+=======================================
+
+
+tobkimanamin
+
+
+.. raw:: html
+
+   </div>
+
+tobkimà’namin (v/tr) (HL) put in the fire (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tobkimanamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

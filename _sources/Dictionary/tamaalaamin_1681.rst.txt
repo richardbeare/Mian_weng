@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tamaalâa’min : stop on the way.
+================================
+
+
+tamaalaamin
+
+
+.. raw:: html
+
+   </div>
+
+tamaalâa’min (v/intr) (LHL) stop on the way.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tamaalaamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

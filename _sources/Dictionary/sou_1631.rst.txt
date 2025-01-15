@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sóu : young unmarried woman (F).
+=================================
+
+
+sou
+
+
+.. raw:: html
+
+   </div>
+
+sóu (n) (LH) young unmarried woman (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sou.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

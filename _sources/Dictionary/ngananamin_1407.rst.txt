@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nganànamin : spread out (leaves, feathers, blanket, tree bark) (PFV).
+======================================================================
+
+
+ngananamin
+
+
+.. raw:: html
+
+   </div>
+
+nganànamin (v/tr) (HL) spread out (leaves, feathers, blanket, tree bark) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ngananamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

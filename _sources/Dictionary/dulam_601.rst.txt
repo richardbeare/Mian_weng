@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dulam : Honeyeater. Xanthotis, Lichenostomos, Meliphaga (F).
+=============================================================
+
+
+dulam
+
+
+.. raw:: html
+
+   </div>
+
+dulam (n) (L) Honeyeater. Xanthotis, Lichenostomos, Meliphaga (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dulam.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

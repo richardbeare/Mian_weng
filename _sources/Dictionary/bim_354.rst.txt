@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bím : butt cheek (N1).
+=======================
+
+
+bim
+
+
+.. raw:: html
+
+   </div>
+
+bím (n) (LH) butt cheek (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bim.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

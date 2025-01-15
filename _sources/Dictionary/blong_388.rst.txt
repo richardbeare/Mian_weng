@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blong : shell; pod (bean), husk (grain), wrapper (cookie) (N1).
+================================================================
+
+
+blong
+
+
+.. raw:: html
+
+   </div>
+
+blong (n) (L) shell; pod (bean), husk (grain), wrapper (cookie) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_blong.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

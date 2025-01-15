@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dàa’namin : break at joint (PFV).
+==================================
+
+
+daanamin
+
+
+.. raw:: html
+
+   </div>
+
+dàa’namin (v/ambitr) (HL) break at joint (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_daanamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

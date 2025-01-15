@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tubunamin : pour, sprinkle (BI-ASP/PFV).
+=========================================
+
+
+tubunamin
+
+
+.. raw:: html
+
+   </div>
+
+tubunamin (v/tr) (L) pour, sprinkle (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tubunamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

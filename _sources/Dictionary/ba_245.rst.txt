@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ba : grow (of plants).
+=======================
+
+
+ba
+
+
+.. raw:: html
+
+   </div>
+
+ba (v/intr) (L) grow (of plants).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ba.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

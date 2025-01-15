@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aglol dobônin : fear of falling.
+=================================
+
+
+aglol_dobonin
+
+
+.. raw:: html
+
+   </div>
+
+aglol dobônin (v/intr) (L/LHL) fear of falling.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aglol_dobonin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

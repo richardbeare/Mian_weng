@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+haisânamin : cut off (a long protruding object) (PFV).
+=======================================================
+
+
+haisanamin
+
+
+.. raw:: html
+
+   </div>
+
+haisânamin (v/tr) (?LHL) cut off (a long protruding object) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_haisanamin.QLHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

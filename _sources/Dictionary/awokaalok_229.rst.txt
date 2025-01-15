@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+awokâalok : parents, adults (awók ‘mother’ plus an unidentified second element  aalok) (PL).
+=============================================================================================
+
+
+awokaalok
+
+
+.. raw:: html
+
+   </div>
+
+awokâalok (n) (LHL) parents, adults (awók ‘mother’ plus an unidentified second element  aalok) (PL).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_awokaalok.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

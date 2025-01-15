@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blout : sound of opening wings.
+================================
+
+
+blout
+
+
+.. raw:: html
+
+   </div>
+
+blout (id) (?) sound of opening wings.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_blout.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

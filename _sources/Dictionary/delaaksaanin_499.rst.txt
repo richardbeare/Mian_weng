@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+delaaksaanin : pour out (IPFV).
+================================
+
+
+delaaksaanin
+
+
+.. raw:: html
+
+   </div>
+
+delaaksaanin (v/tr) (L) pour out (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_delaaksaanin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

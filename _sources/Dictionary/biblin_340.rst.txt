@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+biblin : pandanus species (N1).
+================================
+
+
+biblin
+
+
+.. raw:: html
+
+   </div>
+
+biblin (n) (L) pandanus species (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_biblin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

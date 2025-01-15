@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blekâ : or.
+============
+
+
+bleka
+
+
+.. raw:: html
+
+   </div>
+
+blekâ (conj) (LHL) or.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bleka.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

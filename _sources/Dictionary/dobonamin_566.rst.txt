@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dobônamin : topple, fall down (PFV).
+=====================================
+
+
+dobonamin
+
+
+.. raw:: html
+
+   </div>
+
+dobônamin (v/intr) (LHL) topple, fall down (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dobonamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

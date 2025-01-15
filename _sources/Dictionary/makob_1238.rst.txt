@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+makób : almost, same.
+======================
+
+
+makob
+
+
+.. raw:: html
+
+   </div>
+
+makób (adv) (LH) almost, same.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_makob.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

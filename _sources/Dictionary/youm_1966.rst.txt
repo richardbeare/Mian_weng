@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+yóum : piece of clothing (N1).
+===============================
+
+
+youm
+
+
+.. raw:: html
+
+   </div>
+
+yóum (n) (LH) piece of clothing (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_youm.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

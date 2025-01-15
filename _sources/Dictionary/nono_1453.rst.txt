@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nonó : King Bird of Paradise. Cicinnurus regius (F).
+=====================================================
+
+
+nono
+
+
+.. raw:: html
+
+   </div>
+
+nonó (n) (LH) King Bird of Paradise. Cicinnurus regius (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nono.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

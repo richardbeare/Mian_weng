@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+abén gimin : laugh (IPFV).
+===========================
+
+
+aben_gimin
+
+
+.. raw:: html
+
+   </div>
+
+abén gimin (v/intr) (LH/L) laugh (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aben_gimin.LH-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gâalanamin : tear down, destroy (house or fence) (BI-ASP/PFV).
+===============================================================
+
+
+gaalanamin
+
+
+.. raw:: html
+
+   </div>
+
+gâalanamin (v/tr) (LHL) tear down, destroy (house or fence) (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gaalanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

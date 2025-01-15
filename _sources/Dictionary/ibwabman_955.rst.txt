@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ibwabman : third-born or fourth-born in a family (actually any child who is not born first or second or last-but-one or last) (M/F).
+=====================================================================================================================================
+
+
+ibwabman
+
+
+.. raw:: html
+
+   </div>
+
+ibwabman (n) (?L) third-born or fourth-born in a family (actually any child who is not born first or second or last-but-one or last) (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ibwabman.QL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

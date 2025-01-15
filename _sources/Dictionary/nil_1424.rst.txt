@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nīl : nail (N1). (TP).
+========================
+
+
+nil
+
+
+.. raw:: html
+
+   </div>
+
+nīl (n) (H) nail (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nil.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

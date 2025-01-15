@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aal genalin : be ashamed.
+==========================
+
+
+aal_genalin
+
+
+.. raw:: html
+
+   </div>
+
+aal genalin (v/intr) (L/L) be ashamed.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aal_genalin.L-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

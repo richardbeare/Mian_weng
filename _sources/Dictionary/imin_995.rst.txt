@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+imín : again.
+==============
+
+
+imin
+
+
+.. raw:: html
+
+   </div>
+
+imín (adv) (LH) again.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_imin.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

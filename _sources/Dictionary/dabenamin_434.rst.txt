@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dabênamin : help (BI-ASP/PFV).
+===============================
+
+
+dabenamin
+
+
+.. raw:: html
+
+   </div>
+
+dabênamin (v/tr) (LHL) help (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dabenamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

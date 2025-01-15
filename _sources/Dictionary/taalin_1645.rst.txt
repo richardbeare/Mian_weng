@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+taalin : spit.
+===============
+
+
+taalin
+
+
+.. raw:: html
+
+   </div>
+
+taalin (v/intr) (L) spit.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_taalin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

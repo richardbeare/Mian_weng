@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afênin : be awake, be alive (IPFV).
+====================================
+
+
+afenin
+
+
+.. raw:: html
+
+   </div>
+
+afênin (v/intr) (LHL) be awake, be alive (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afenin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

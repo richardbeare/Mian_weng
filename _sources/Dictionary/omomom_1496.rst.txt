@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+omômom : all kinds of.
+=======================
+
+
+omomom
+
+
+.. raw:: html
+
+   </div>
+
+omômom (mod) (LHL) all kinds of.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_omomom.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

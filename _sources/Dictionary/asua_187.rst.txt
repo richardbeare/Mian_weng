@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+asua : fault, mistake. (TP).
+=============================
+
+
+asua
+
+
+.. raw:: html
+
+   </div>
+
+asua (n) (L) fault, mistake. (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_asua.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

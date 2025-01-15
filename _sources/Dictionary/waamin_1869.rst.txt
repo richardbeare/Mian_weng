@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+waamin : swim (lit. push (water)) (BI-ASP/IPFV).
+=================================================
+
+
+waamin NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+waamin (v/tr) (L) swim (lit. push (water)) (BI-ASP/IPFV).
+
+

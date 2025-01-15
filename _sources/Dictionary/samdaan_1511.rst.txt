@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+samdaan : Palm cockatoo. Probosciber aterrimus (M).
+====================================================
+
+
+samdaan
+
+
+.. raw:: html
+
+   </div>
+
+samdaan (n) (L) Palm cockatoo. Probosciber aterrimus (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_samdaan.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

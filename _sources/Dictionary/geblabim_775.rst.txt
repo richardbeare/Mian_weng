@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gēblabim : Papuan Flowerpecker. Dicaeum pectorale (M).
+=======================================================
+
+
+geblabim
+
+
+.. raw:: html
+
+   </div>
+
+gēblabim (n) (H) Papuan Flowerpecker. Dicaeum pectorale (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_geblabim.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

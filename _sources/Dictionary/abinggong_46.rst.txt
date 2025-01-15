@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+abinggông : umbilical cord (N1).
+=================================
+
+
+abinggong
+
+
+.. raw:: html
+
+   </div>
+
+abinggông (n) (LHL) umbilical cord (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_abinggong.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

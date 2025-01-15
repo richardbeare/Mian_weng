@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+yōlowok : giant beetle species (F).
+====================================
+
+
+yolowok
+
+
+.. raw:: html
+
+   </div>
+
+yōlowok (n) (H) giant beetle species (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_yolowok.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

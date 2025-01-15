@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wāt : across (a river or valley).
+==================================
+
+
+wat
+
+
+.. raw:: html
+
+   </div>
+
+wāt (dir) (H) across (a river or valley).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wat.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

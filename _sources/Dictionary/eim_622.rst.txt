@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+éim : pandanus. Pandanus conoideus. (N1 or N2 depending on species).
+=====================================================================
+
+
+eim
+
+
+.. raw:: html
+
+   </div>
+
+éim (n) (LH) pandanus. Pandanus conoideus. (N1 or N2 depending on species).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_eim.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

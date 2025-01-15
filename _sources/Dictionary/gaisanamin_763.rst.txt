@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gaisânamin : pass, surpass, bypass (PFV).
+==========================================
+
+
+gaisanamin
+
+
+.. raw:: html
+
+   </div>
+
+gaisânamin (v/tr) (LHL) pass, surpass, bypass (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gaisanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

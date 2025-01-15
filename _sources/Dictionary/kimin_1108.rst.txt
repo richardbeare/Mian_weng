@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kimin : same.
+==============
+
+
+kimin
+
+
+.. raw:: html
+
+   </div>
+
+kimin (adv) (L) same.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kimin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

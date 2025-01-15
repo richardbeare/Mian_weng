@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ewàt : across here.
+====================
+
+
+ewat
+
+
+.. raw:: html
+
+   </div>
+
+ewàt (dir) (HL) across here.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ewat.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

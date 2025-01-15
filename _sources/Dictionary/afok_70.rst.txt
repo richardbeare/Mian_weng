@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afók : sun (F).
+================
+
+
+afok
+
+
+.. raw:: html
+
+   </div>
+
+afók (n) (LH) sun (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afok.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mikokòl : pandanus grease (N1).
+================================
+
+
+mikokol
+
+
+.. raw:: html
+
+   </div>
+
+mikokòl (n) (HL) pandanus grease (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mikokol.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

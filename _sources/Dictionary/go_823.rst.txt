@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gó : ridge pole (N1).
+======================
+
+
+go
+
+
+.. raw:: html
+
+   </div>
+
+gó (n) (LH) ridge pole (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_go.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

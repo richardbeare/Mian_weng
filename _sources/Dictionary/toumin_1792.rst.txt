@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+toumin : set down (BI-ASP/IPFV).
+=================================
+
+
+toumin
+
+
+.. raw:: html
+
+   </div>
+
+toumin (v/tr) (L) set down (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_toumin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

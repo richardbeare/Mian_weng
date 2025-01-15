@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+obbiànamin : throw, erupt (PFV).
+=================================
+
+
+obbianamin
+
+
+.. raw:: html
+
+   </div>
+
+obbiànamin (v/ambitr) (HL) throw, erupt (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_obbianamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

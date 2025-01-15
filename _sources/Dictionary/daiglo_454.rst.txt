@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+daiglo : Myna. Mino (F).
+=========================
+
+
+daiglo
+
+
+.. raw:: html
+
+   </div>
+
+daiglo (n) (L) Myna. Mino (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_daiglo.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

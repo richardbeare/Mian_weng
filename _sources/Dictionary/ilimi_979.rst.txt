@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ilimî : theirs alone.
+======================
+
+
+ilimi
+
+
+.. raw:: html
+
+   </div>
+
+ilimî (pron) (LHL) theirs alone.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ilimi.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

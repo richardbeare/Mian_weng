@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+amisulâk : woman native to a place (M).
+========================================
+
+
+amisulak
+
+
+.. raw:: html
+
+   </div>
+
+amisulâk (n) (LHL) woman native to a place (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_amisulak.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

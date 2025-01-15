@@ -1,0 +1,42 @@
+:nosearch:
+
+Y
+===========================
+
+.. toctree::
+   Yabsi_1939.rst
+   yaal_1936.rst
+   yaalaamin_1937.rst
+   yakukyakuk_1941.rst
+   yakeil_1940.rst
+   yalaanamin_1942.rst
+   yalonamin_1218.rst
+   yang_1945.rst
+   yangke_1946.rst
+   yanim_1947.rst
+   yawai_1948.rst
+   yam_1943.rst
+   yam_1944.rst
+   yebbaka_1951.rst
+   yefamak_1952.rst
+   yeita_1954.rst
+   yekei_1955.rst
+   yeta_1956.rst
+   yeye_1957.rst
+   yolyomaanamin_1964.rst
+   yota_1965.rst
+   yaamin_1934.rst
+   yaanamin_1935.rst
+   yaam_1938.rst
+   yomin_1960.rst
+   yonamin_1961.rst
+   youm_1966.rst
+   jai_1932.rst
+   jai_1933.rst
+   ye_1949.rst
+   ye_1950.rst
+   yei_1953.rst
+   yo_1958.rst
+   yo_1959.rst
+   yole_1962.rst
+   yolowok_1963.rst

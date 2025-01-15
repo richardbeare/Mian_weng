@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dê’ hâa’nin : walk idly around (IPFV).
+=======================================
+
+
+de_haanin
+
+
+.. raw:: html
+
+   </div>
+
+dê’ hâa’nin (svc/intr) (LHL/LHL) walk idly around (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_de_haanin.LHL-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

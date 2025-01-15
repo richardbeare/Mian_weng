@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+klaanamin : rot, decay (PFV).
+==============================
+
+
+klaanamin
+
+
+.. raw:: html
+
+   </div>
+
+klaanamin (v/intr) (L) rot, decay (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_klaanamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

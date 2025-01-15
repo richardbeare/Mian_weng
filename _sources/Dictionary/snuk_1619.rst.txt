@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+snuk : house rat. Rattus ruber (M).
+====================================
+
+
+snuk NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+snuk (n) (L) house rat. Rattus ruber (M).
+
+

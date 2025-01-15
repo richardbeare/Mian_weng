@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bukù’namin : spread widely, take over (PFV).
+=============================================
+
+
+bukunamin
+
+
+.. raw:: html
+
+   </div>
+
+bukù’namin (v/tr) (HL) spread widely, take over (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bukunamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

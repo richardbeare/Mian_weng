@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+īwat : across there.
+=====================
+
+
+iwat
+
+
+.. raw:: html
+
+   </div>
+
+īwat (dir) (HL) across there.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_iwat.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

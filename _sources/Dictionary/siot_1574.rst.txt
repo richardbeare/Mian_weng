@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sīot : shirt (N1). (TP).
+==========================
+
+
+siot
+
+
+.. raw:: html
+
+   </div>
+
+sīot (n) (H) shirt (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_siot.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

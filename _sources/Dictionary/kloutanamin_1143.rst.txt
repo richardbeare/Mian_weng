@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kloutânamin : break, shatter (PFV)
+===================================
+
+
+kloutanamin
+
+
+.. raw:: html
+
+   </div>
+
+kloutânamin (v/tr) (LHL) break, shatter (PFV)
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kloutanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

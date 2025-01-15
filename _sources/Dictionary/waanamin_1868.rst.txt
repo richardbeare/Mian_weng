@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+waanamin : make carvings in arrows (BI-ASP/PFV).
+=================================================
+
+
+waanamin NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+waanamin (v/tr) (L) make carvings in arrows (BI-ASP/PFV).
+
+

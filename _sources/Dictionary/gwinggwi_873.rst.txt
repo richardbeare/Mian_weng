@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gwinggwî : Emerald Dove. Chalcophaps indica (F).
+=================================================
+
+
+gwinggwi
+
+
+.. raw:: html
+
+   </div>
+
+gwinggwî (n) (LHL) Emerald Dove. Chalcophaps indica (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gwinggwi.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

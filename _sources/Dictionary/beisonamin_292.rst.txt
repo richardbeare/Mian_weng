@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+beisônamin : cut out (PL objects) (PFV).
+=========================================
+
+
+beisonamin
+
+
+.. raw:: html
+
+   </div>
+
+beisônamin (v/tr) (LHL) cut out (PL objects) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_beisonamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

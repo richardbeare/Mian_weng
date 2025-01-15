@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+teyâ’min : crack (nuts), knead (dough) (BI-ASP/IPFV).
+======================================================
+
+
+teyamin
+
+
+.. raw:: html
+
+   </div>
+
+teyâ’min (v/tr) (LHL) crack (nuts), knead (dough) (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_teyamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

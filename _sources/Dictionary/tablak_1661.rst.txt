@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tablak : Mottled Whistler. Rhagolgus leucostigma (M).
+======================================================
+
+
+tablak
+
+
+.. raw:: html
+
+   </div>
+
+tablak (n) (L) Mottled Whistler. Rhagolgus leucostigma (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tablak.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

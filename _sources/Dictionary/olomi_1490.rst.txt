@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+olomî : hers (F) alone, its (N2) alone.
+========================================
+
+
+olomi
+
+
+.. raw:: html
+
+   </div>
+
+olomî (pron) (LHL) hers (F) alone, its (N2) alone.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_olomi.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

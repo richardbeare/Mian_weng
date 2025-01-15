@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+molò’namin : break banana (off stalk) (PFV).
+=============================================
+
+
+molonamin
+
+
+.. raw:: html
+
+   </div>
+
+molò’namin (v/tr) (HL) break banana (off stalk) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_molonamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

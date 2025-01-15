@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dobhâa’nin : chase (IPFV).
+===========================
+
+
+dobhaanin
+
+
+.. raw:: html
+
+   </div>
+
+dobhâa’nin (v/tr) (LHL) chase (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dobhaanin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

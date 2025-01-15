@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ninik : dirty.
+===============
+
+
+ninik
+
+
+.. raw:: html
+
+   </div>
+
+ninik (adj) (L) dirty.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ninik.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

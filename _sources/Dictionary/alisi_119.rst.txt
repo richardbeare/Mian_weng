@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alisi : partly rotten, weak of stomach.
+========================================
+
+
+alisi
+
+
+.. raw:: html
+
+   </div>
+
+alisi (adj) (L) partly rotten, weak of stomach.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alisi.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

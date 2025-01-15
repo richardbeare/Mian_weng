@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+klang : ear; inner ear, hearing (N1).
+======================================
+
+
+klang
+
+
+.. raw:: html
+
+   </div>
+
+klang (n) (L) ear; inner ear, hearing (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_klang.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bīman : python species (M).
+============================
+
+
+biman
+
+
+.. raw:: html
+
+   </div>
+
+bīman (n) (H) python species (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_biman.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

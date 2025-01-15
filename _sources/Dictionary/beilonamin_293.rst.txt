@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+beilònamin : prepare, pack (PFV).
+==================================
+
+
+beilonamin
+
+
+.. raw:: html
+
+   </div>
+
+beilònamin (v/tr) (?HL) prepare, pack (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_beilonamin.QHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

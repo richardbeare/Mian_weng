@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+klâ : really, properly.
+========================
+
+
+kla
+
+
+.. raw:: html
+
+   </div>
+
+klâ (adv) (LHL) really, properly.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kla.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

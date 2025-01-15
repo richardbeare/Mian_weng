@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bokâmin : collection of many things, e.g cups and things on the table; marry many (women) (IPFV).
+==================================================================================================
+
+
+bokamin
+
+
+.. raw:: html
+
+   </div>
+
+bokâmin (v/tr) (LHL) collection of many things, e.g cups and things on the table; marry many (women) (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bokamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

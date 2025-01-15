@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bikilâmin : wring out (BI-ASP/IPFV).
+=====================================
+
+
+bikilamin
+
+
+.. raw:: html
+
+   </div>
+
+bikilâmin (v/tr) (LHL) wring out (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bikilamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

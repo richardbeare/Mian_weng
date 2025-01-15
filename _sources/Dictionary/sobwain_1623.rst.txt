@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sobwàin : Little Red Lorikeet (or maybe Josephine’s Lorikeet). Charmosyna pulchella (or josefinae) (M).
+========================================================================================================
+
+
+sobwain
+
+
+.. raw:: html
+
+   </div>
+
+sobwàin (n) (HL) Little Red Lorikeet (or maybe Josephine’s Lorikeet). Charmosyna pulchella (or josefinae) (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sobwain.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

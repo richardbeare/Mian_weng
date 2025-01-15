@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kwablúm : grasshopper species (F).
+===================================
+
+
+kwablum
+
+
+.. raw:: html
+
+   </div>
+
+kwablúm (n) (LH) grasshopper species (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kwablum.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

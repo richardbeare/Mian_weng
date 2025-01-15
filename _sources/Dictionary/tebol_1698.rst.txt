@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tēbol : table (N1). (TP).
+===========================
+
+
+tebol
+
+
+.. raw:: html
+
+   </div>
+
+tēbol (n) (H) table (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tebol.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

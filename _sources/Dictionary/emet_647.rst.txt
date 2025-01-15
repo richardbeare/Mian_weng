@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ēmet : upriver here.
+=====================
+
+
+emet
+
+
+.. raw:: html
+
+   </div>
+
+ēmet (dir) (HL) upriver here.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_emet.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

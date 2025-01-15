@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bimal : Lesser bird of paradise. Paradisaea minor (F).
+=======================================================
+
+
+bimal
+
+
+.. raw:: html
+
+   </div>
+
+bimal (n) (L) Lesser bird of paradise. Paradisaea minor (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bimal.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

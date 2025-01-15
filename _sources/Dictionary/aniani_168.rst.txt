@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aniani : not clear, indefinite, non-committal.
+===============================================
+
+
+aniani
+
+
+.. raw:: html
+
+   </div>
+
+aniani (adv) (L) not clear, indefinite, non-committal.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aniani.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

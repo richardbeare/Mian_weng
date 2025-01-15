@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ilibtâ : you alone (PL, EMPH).
+===============================
+
+
+ilibta
+
+
+.. raw:: html
+
+   </div>
+
+ilibtâ (pron) (LHL) you alone (PL, EMPH).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ilibta.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

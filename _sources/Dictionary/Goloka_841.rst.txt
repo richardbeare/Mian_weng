@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Gōloka : Goroka (Provincial Capital of Eastern Highlands Province).
+====================================================================
+
+
+Goloka
+
+
+.. raw:: html
+
+   </div>
+
+Gōloka (pn) (H) Goroka (Provincial Capital of Eastern Highlands Province).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Goloka.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

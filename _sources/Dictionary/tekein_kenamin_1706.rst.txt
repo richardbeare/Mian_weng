@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tekein kenamin : know (lit. knowlegde do). (BI-ASP/PFV)
+========================================================
+
+
+tekein_kenamin NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+tekein kenamin (v/tr) (L) know (lit. knowlegde do). (BI-ASP/PFV)
+
+

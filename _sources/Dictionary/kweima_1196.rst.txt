@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kweimá : light yellow taro species (N1).
+=========================================
+
+
+kweima
+
+
+.. raw:: html
+
+   </div>
+
+kweimá (n) (LH) light yellow taro species (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kweima.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

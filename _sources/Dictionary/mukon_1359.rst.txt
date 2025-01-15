@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mūkon : neck vertebra (N1).
+=============================
+
+
+mukon
+
+
+.. raw:: html
+
+   </div>
+
+mūkon (n) (H) neck vertebra (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mukon.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

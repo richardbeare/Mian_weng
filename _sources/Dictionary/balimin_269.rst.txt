@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+balìmin : come up (of plants), bear fruit (BI-ASP).
+====================================================
+
+
+balimin
+
+
+.. raw:: html
+
+   </div>
+
+balìmin (v/intr) (HL) come up (of plants), bear fruit (BI-ASP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_balimin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

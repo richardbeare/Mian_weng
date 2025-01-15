@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+oumin : assemble arrow by putting the head into the shaft (BI-ASP/IPFV).
+=========================================================================
+
+
+oumin
+
+
+.. raw:: html
+
+   </div>
+
+oumin (v/tr) (L) assemble arrow by putting the head into the shaft (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_oumin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

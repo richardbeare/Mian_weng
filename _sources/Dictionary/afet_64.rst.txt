@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afét : cleared of a taboo.
+===========================
+
+
+afet
+
+
+.. raw:: html
+
+   </div>
+
+afét (adj) (LH) cleared of a taboo.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afet.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

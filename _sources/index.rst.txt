@@ -1,0 +1,49 @@
+.. MianDictionary documentation master file, created by
+   sphinx-quickstart on Mon Jan 13 18:09:17 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Mian wéng: The Mian language
+============================
+
+Mian (also known as ‘Mianmin’ or ‘Miyanmin’, ISO mpt) is a Papuan language of the Ok family. The Ok family of languages belongs to the larger Trans New Guinea (TNG) family. The Ok languages are named after the widespread cognate ok ‘river, water’ in these languages.
+
+Mian is spoken by fewer than two thousand people in the north-west of Telefomin District in Sandaun Province, Papua New Guinea. Geographically, the Mianmin area is delimited by the August and May Rivers
+in the west and east, respectively, and the Hindenburg Range in the south.
+
+Two dialect varieties can be distinguished: West Mian (also known as Wagarabai or Skonga) in and around Yapsiei, a government and Catholic mission station about 15 km east of the border to Papua (Irian Jaya) with
+approximately 350 speakers; and East Mian in the villages around Mianmin airstrip (Timeilmin, Temsakmin, and Sokamin), in Gubil, Fiak, and Hotmin with approximately 1,400 speakers. Both Mian dialects are under strong influence from English and Tok Pisin, the local variety of Neo-Melanesian pidgin. Tok Pisin serves as a lingua franca
+throughout the area, though English is the more prestigious of the two, with school education and
+official business conducted in English. 
+
+Glossary
+========
+
+* N1: Neuter 1
+* N2: Neuter 2
+
+Notes: search for "NoWav" to find words without a recording.
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   
+   Dictionary/A.rst
+   Dictionary/B.rst
+   Dictionary/D.rst
+   Dictionary/E.rst
+   Dictionary/F.rst
+   Dictionary/G.rst
+   Dictionary/H.rst
+   Dictionary/I.rst
+   Dictionary/K.rst
+   Dictionary/L.rst
+   Dictionary/M.rst
+   Dictionary/N.rst
+   Dictionary/O.rst
+   Dictionary/S.rst
+   Dictionary/T.rst
+   Dictionary/U.rst
+   Dictionary/W.rst
+   Dictionary/Y.rst

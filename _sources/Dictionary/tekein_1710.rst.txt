@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tekein : knowledge (N2).
+=========================
+
+
+tekein
+
+
+.. raw:: html
+
+   </div>
+
+tekein (n) (L) knowledge (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tekein.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

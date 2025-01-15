@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+báab : aunt (mother’s and father’s younger sister) (F).
+========================================================
+
+
+baab
+
+
+.. raw:: html
+
+   </div>
+
+báab (n) (LH) aunt (mother’s and father’s younger sister) (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_baab.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atliaubênamin : be angry (contracted form of al tlia-) (PFV).
+==============================================================
+
+
+atliaubenamin
+
+
+.. raw:: html
+
+   </div>
+
+atliaubênamin (v/tr) (LHL) be angry (contracted form of al tlia-) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_atliaubenamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

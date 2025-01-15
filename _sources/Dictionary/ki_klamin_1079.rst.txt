@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ki klâmin : make a pattern (BI-ASP/IPFV).
+==========================================
+
+
+ki_klamin
+
+
+.. raw:: html
+
+   </div>
+
+ki klâmin (svc/tr) (L/LHL) make a pattern (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ki_klamin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

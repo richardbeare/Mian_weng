@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+doulam : sweat bee (M).
+========================
+
+
+doulam
+
+
+.. raw:: html
+
+   </div>
+
+doulam (n) (L) sweat bee (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_doulam.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

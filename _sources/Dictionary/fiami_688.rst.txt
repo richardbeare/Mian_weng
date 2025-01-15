@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fiamî : barbed spear (N1).
+===========================
+
+
+fiami
+
+
+.. raw:: html
+
+   </div>
+
+fiamî (n) (LHL) barbed spear (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fiami.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

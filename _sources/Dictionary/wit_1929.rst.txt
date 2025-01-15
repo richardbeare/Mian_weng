@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wīt : up, upward, uphill.
+===========================
+
+
+wit
+
+
+.. raw:: html
+
+   </div>
+
+wīt (dir) (H) up, upward, uphill.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wit.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

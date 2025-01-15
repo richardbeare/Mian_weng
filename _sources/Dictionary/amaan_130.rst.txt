@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+amáan : roof leaves (N2).
+==========================
+
+
+amaan
+
+
+.. raw:: html
+
+   </div>
+
+amáan (n) (LH) roof leaves (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_amaan.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

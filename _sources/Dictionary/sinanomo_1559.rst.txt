@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sinanomó : a little later.
+===========================
+
+
+sinanomo
+
+
+.. raw:: html
+
+   </div>
+
+sinanomó (tn) (LH) a little later.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sinanomo.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+amítye : always.
+=================
+
+
+amitye
+
+
+.. raw:: html
+
+   </div>
+
+amítye (adv) (LH) always.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_amitye.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

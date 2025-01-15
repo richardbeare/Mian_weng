@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kweiltùb : with the hand, manually.
+====================================
+
+
+kweiltub
+
+
+.. raw:: html
+
+   </div>
+
+kweiltùb (adv) (HL) with the hand, manually.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kweiltub.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wengsâng : story (N2).
+=======================
+
+
+wengsang
+
+
+.. raw:: html
+
+   </div>
+
+wengsâng (n) (LHL) story (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wengsang.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

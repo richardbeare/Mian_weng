@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+klâmin : make, work, build; fix complete (BI-ASP/IPFV).
+========================================================
+
+
+klamin
+
+
+.. raw:: html
+
+   </div>
+
+klâmin (v/tr) (LHL) make, work, build; fix complete (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_klamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

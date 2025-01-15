@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+omêin tlemin : fall, drop out (PFV).
+=====================================
+
+
+omein_tlemin
+
+
+.. raw:: html
+
+   </div>
+
+omêin tlemin (v/intr) (LHL/L) fall, drop out (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_omein_tlemin.LHL-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

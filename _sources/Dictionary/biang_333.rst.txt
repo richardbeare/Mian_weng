@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+biang : wooden corner post (of fireplace) (N1).
+================================================
+
+
+biang
+
+
+.. raw:: html
+
+   </div>
+
+biang (n) (L) wooden corner post (of fireplace) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_biang.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

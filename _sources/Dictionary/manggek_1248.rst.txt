@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+manggêk : honey bee (M).
+=========================
+
+
+manggek
+
+
+.. raw:: html
+
+   </div>
+
+manggêk (n) (LHL) honey bee (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_manggek.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

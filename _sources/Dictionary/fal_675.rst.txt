@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fal : leaf oven (?N1).
+=======================
+
+
+fal
+
+
+.. raw:: html
+
+   </div>
+
+fal (n) (L) leaf oven (?N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fal.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

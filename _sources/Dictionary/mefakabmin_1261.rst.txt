@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mefakabmin : small.
+====================
+
+
+mefakabmin
+
+
+.. raw:: html
+
+   </div>
+
+mefakabmin (adj) (?) small.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mefakabmin.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

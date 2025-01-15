@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+damìng : fallow garden (N2).
+=============================
+
+
+daming
+
+
+.. raw:: html
+
+   </div>
+
+damìng (n) (HL) fallow garden (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_daming.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

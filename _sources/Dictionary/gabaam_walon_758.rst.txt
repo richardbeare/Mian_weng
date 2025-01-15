@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gabáam walon : widow, widower (M/F).
+=====================================
+
+
+gabaam_walon
+
+
+.. raw:: html
+
+   </div>
+
+gabáam walon (n) (LH/L) widow, widower (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gabaam_walon.LH-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

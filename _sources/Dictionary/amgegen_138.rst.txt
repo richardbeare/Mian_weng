@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+amgegén : side of house (N2).
+==============================
+
+
+amgegen
+
+
+.. raw:: html
+
+   </div>
+
+amgegén (n) (LH) side of house (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_amgegen.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

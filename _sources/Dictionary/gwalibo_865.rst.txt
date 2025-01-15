@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gwālibo : Superb Bird of Paradise. Lophorina superba. (?F)
+===========================================================
+
+
+gwalibo
+
+
+.. raw:: html
+
+   </div>
+
+gwālibo (n) (H) Superb Bird of Paradise. Lophorina superba. (?F)
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gwalibo.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

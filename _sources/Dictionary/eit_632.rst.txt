@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+éit : penis (N1).
+==================
+
+
+eit
+
+
+.. raw:: html
+
+   </div>
+
+éit (n) (LH) penis (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_eit.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+flul : rotten wood (N1).
+=========================
+
+
+flul
+
+
+.. raw:: html
+
+   </div>
+
+flul (n) (L) rotten wood (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_flul.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gīng : midrib of leaf; vein of leaf; stem (N1).
+================================================
+
+
+ging
+
+
+.. raw:: html
+
+   </div>
+
+gīng (n) (H) midrib of leaf; vein of leaf; stem (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ging.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

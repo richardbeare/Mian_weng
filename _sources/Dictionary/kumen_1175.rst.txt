@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kumèn : man’s small string bag (N1).
+=====================================
+
+
+kumen
+
+
+.. raw:: html
+
+   </div>
+
+kumèn (n) (?HL) man’s small string bag (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kumen.QHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

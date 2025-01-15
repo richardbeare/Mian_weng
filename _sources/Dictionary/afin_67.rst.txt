@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afín : friend, ally (M).
+=========================
+
+
+afin
+
+
+.. raw:: html
+
+   </div>
+
+afín (n) (LH) friend, ally (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afin.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

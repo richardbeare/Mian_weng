@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+netà : I (EMPH).
+=================
+
+
+neta
+
+
+.. raw:: html
+
+   </div>
+
+netà (pron) (HL) I (EMPH).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_neta.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+namâ : Sulphur-crested cockatoo. Cacatua galerita (M).
+=======================================================
+
+
+nama
+
+
+.. raw:: html
+
+   </div>
+
+namâ (n) (LHL) Sulphur-crested cockatoo. Cacatua galerita (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nama.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

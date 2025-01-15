@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+meleklâ’nin : work hard, drudge (PFV).
+=======================================
+
+
+meleklanin
+
+
+.. raw:: html
+
+   </div>
+
+meleklâ’nin (v/intr) (LHL) work hard, drudge (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_meleklanin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

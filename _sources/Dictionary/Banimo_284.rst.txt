@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Banimo : Vanimo.
+=================
+
+
+Banimo
+
+
+.. raw:: html
+
+   </div>
+
+Banimo (pn) (L) Vanimo.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Banimo.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

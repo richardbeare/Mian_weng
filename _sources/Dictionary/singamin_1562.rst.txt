@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+singàmin : pour (SG object) (BI-ASP/IPFV).
+===========================================
+
+
+singamin
+
+
+.. raw:: html
+
+   </div>
+
+singàmin (v/tr) (HL) pour (SG object) (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_singamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

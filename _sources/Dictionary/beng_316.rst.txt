@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+béng : fart (quietly).
+=======================
+
+
+beng
+
+
+.. raw:: html
+
+   </div>
+
+béng (id) (?LH) fart (quietly).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_beng.QLH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

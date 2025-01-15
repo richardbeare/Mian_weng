@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gabaamâan : hair (N1).
+=======================
+
+
+gabaamaan
+
+
+.. raw:: html
+
+   </div>
+
+gabaamâan (n) (LHL) hair (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gabaamaan.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

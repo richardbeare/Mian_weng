@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nē : I, my.
+============
+
+
+ne
+
+
+.. raw:: html
+
+   </div>
+
+nē (pron) (H) I, my.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ne.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

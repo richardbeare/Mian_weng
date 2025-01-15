@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nīli : we (EXCL) alone, our (EXCL) alone.
+==========================================
+
+
+nili
+
+
+.. raw:: html
+
+   </div>
+
+nīli (pron) (H) we (EXCL) alone, our (EXCL) alone.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nili.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

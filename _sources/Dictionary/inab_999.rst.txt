@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ináb : snake (M/F).
+====================
+
+
+inab
+
+
+.. raw:: html
+
+   </div>
+
+ináb (n) (LH) snake (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_inab.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

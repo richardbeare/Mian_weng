@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nafinám : little winged insects which are attracted by light (N1).
+===================================================================
+
+
+nafinam
+
+
+.. raw:: html
+
+   </div>
+
+nafinám (n) (LH) little winged insects which are attracted by light (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nafinam.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

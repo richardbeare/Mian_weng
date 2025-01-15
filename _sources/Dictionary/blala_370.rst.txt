@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blala : flash of lightning.
+============================
+
+
+blala
+
+
+.. raw:: html
+
+   </div>
+
+blala (id) (L) flash of lightning.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_blala.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

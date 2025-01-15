@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wabûmin : grow poorly (e.g. of taro or banana seedlings).
+==========================================================
+
+
+wabumin
+
+
+.. raw:: html
+
+   </div>
+
+wabûmin (v/intr) (LHL) grow poorly (e.g. of taro or banana seedlings).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wabumin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

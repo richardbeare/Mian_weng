@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fluluk : flutter (of small birds).
+===================================
+
+
+fluluk
+
+
+.. raw:: html
+
+   </div>
+
+fluluk (id) (?) flutter (of small birds).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fluluk.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

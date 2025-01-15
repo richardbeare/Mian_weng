@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sāng : story (N2).
+===================
+
+
+sang
+
+
+.. raw:: html
+
+   </div>
+
+sāng (n) (H) story (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sang.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

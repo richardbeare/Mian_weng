@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+akgumgum : large piece of fuel (N1).
+=====================================
+
+
+akgumgum
+
+
+.. raw:: html
+
+   </div>
+
+akgumgum (n) (L) large piece of fuel (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_akgumgum.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

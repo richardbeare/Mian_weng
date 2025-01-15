@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mibâmin : close by putting down lid (BI-ASP/IPFV).
+===================================================
+
+
+mibamin
+
+
+.. raw:: html
+
+   </div>
+
+mibâmin (v/tr) (LHL) close by putting down lid (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mibamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

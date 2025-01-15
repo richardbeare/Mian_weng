@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+maabú : blowfly (N1).
+======================
+
+
+maabu
+
+
+.. raw:: html
+
+   </div>
+
+maabú (n) (LH) blowfly (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_maabu.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

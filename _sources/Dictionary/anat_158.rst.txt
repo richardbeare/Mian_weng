@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+anàt : arrow type (N1).
+========================
+
+
+anat
+
+
+.. raw:: html
+
+   </div>
+
+anàt (n) (HL) arrow type (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_anat.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

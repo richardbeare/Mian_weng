@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+simaanâ’namin : be upset, be ashamed (PFV).
+============================================
+
+
+simaananamin
+
+
+.. raw:: html
+
+   </div>
+
+simaanâ’namin (v/intr) (LHL) be upset, be ashamed (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_simaananamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

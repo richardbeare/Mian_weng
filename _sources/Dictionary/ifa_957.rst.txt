@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ifá : sweat (N1).
+==================
+
+
+ifa
+
+
+.. raw:: html
+
+   </div>
+
+ifá (n) (LH) sweat (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ifa.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

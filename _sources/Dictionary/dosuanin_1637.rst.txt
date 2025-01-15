@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dosuànin : be angry with, hate (IPFV).
+=======================================
+
+
+dosuanin
+
+
+.. raw:: html
+
+   </div>
+
+dosuànin (v/tr) (HL) be angry with, hate (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dosuanin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

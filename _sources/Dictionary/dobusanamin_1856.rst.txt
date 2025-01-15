@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dobusà’namin : place (a child) into the arm (so that it can sleep) (PFV).
+==========================================================================
+
+
+dobusanamin
+
+
+.. raw:: html
+
+   </div>
+
+dobusà’namin (v/tr) (HL) place (a child) into the arm (so that it can sleep) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dobusanamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

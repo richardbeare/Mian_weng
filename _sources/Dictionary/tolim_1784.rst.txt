@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tōlim : New Guinea eagle. Harpyopsis novaeguineae (M).
+========================================================
+
+
+tolim
+
+
+.. raw:: html
+
+   </div>
+
+tōlim (n) (H) New Guinea eagle. Harpyopsis novaeguineae (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tolim.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

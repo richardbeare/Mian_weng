@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dūng : wild pandanus species (N1).
+===================================
+
+
+dung
+
+
+.. raw:: html
+
+   </div>
+
+dūng (n) (H) wild pandanus species (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dung.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+éng : dry place (e.g. near the trunk of a tree) (N2).
+======================================================
+
+
+eng
+
+
+.. raw:: html
+
+   </div>
+
+éng (n) (LH) dry place (e.g. near the trunk of a tree) (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_eng.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

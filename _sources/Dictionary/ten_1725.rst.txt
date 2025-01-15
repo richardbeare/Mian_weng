@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tēn : child, people of (in the PL) (M/F).
+==========================================
+
+
+ten
+
+
+.. raw:: html
+
+   </div>
+
+tēn (n) (H) child, people of (in the PL) (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ten.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

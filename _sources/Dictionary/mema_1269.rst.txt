@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+memâ : new.
+============
+
+
+mema
+
+
+.. raw:: html
+
+   </div>
+
+memâ (adj) (LHL) new.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mema.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

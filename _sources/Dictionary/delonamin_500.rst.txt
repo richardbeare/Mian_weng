@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+delônamin : break off (PL object, e.g. bananas) (PFV).
+=======================================================
+
+
+delonamin
+
+
+.. raw:: html
+
+   </div>
+
+delônamin (v/tr) (LHL) break off (PL object, e.g. bananas) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_delonamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

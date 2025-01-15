@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+weisônamin : cut off (PL objects) (PFV).
+=========================================
+
+
+weisonamin
+
+
+.. raw:: html
+
+   </div>
+
+weisônamin (v/tr) (LHL) cut off (PL objects) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_weisonamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fuelâ’namin : wash body (PFV).
+===============================
+
+
+fuelanamin
+
+
+.. raw:: html
+
+   </div>
+
+fuelâ’namin (v/intr) (LHL) wash body (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fuelanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

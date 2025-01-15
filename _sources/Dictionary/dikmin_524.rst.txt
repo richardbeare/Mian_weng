@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dîk’min : make a hole (IPFV).
+==============================
+
+
+dikmin
+
+
+.. raw:: html
+
+   </div>
+
+dîk’min (v/tr) (LHL) make a hole (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dikmin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

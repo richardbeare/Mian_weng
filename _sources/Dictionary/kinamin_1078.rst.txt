@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kinamin : align, read, measure, point (BI-ASP/PFV).
+====================================================
+
+
+kinamin
+
+
+.. raw:: html
+
+   </div>
+
+kinamin (v/tr) (L) align, read, measure, point (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kinamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

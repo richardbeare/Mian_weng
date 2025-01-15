@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+táa : lizard species (M).
+==========================
+
+
+taa
+
+
+.. raw:: html
+
+   </div>
+
+táa (n) (LH) lizard species (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_taa.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

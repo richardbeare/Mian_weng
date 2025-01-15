@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afuéi : skin lesion, leprosy (N2).
+===================================
+
+
+afuei
+
+
+.. raw:: html
+
+   </div>
+
+afuéi (n) (LH) skin lesion, leprosy (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afuei.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

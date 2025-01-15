@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alu : old, decayed, rotten.
+============================
+
+
+alu
+
+
+.. raw:: html
+
+   </div>
+
+alu (adj) (L) old, decayed, rotten.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alu.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

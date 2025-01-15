@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+olinamin : almost stop (of rain only).
+=======================================
+
+
+olinamin
+
+
+.. raw:: html
+
+   </div>
+
+olinamin (v/intr) (L) almost stop (of rain only).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_olinamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+asel : speaker of the same language, wantok (PL).
+==================================================
+
+
+asel
+
+
+.. raw:: html
+
+   </div>
+
+asel (n) (L) speaker of the same language, wantok (PL).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_asel.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tubáan : breast feather (N1).
+==============================
+
+
+tubaan
+
+
+.. raw:: html
+
+   </div>
+
+tubáan (n) (LH) breast feather (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tubaan.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

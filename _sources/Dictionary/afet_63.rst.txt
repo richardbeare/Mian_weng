@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+afet : (an).other, different.
+==============================
+
+
+afet
+
+
+.. raw:: html
+
+   </div>
+
+afet (adj) (L) (an).other, different.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_afet.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

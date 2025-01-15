@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atfúb : wood chips for (re).kindling fire (N1).
+================================================
+
+
+atfub
+
+
+.. raw:: html
+
+   </div>
+
+atfúb (n) (?LH) wood chips for (re).kindling fire (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_atfub.QLH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tilênin : be in one’s final throes (IPFV).
+===========================================
+
+
+tilenin
+
+
+.. raw:: html
+
+   </div>
+
+tilênin (v/intr) (LHL) be in one’s final throes (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tilenin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

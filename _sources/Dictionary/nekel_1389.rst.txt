@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nekél : younger siblings (PL).
+===============================
+
+
+nekel
+
+
+.. raw:: html
+
+   </div>
+
+nekél (n) (LH) younger siblings (PL).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nekel.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

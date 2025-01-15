@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ase obtanànamin : light (of fires only) (PFV).
+===============================================
+
+
+ase_obtananamin
+
+
+.. raw:: html
+
+   </div>
+
+ase obtanànamin (v/tr) (L/HL) light (of fires only) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ase_obtananamin.L-HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bilâ(ka)min : cut to pieces (IPFV).
+====================================
+
+
+bilakamin
+
+
+.. raw:: html
+
+   </div>
+
+bilâ(ka)min (v/tr) (LHL) cut to pieces (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bilakamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+abín : navel; knob (of pot lid) (N1).
+======================================
+
+
+abin
+
+
+.. raw:: html
+
+   </div>
+
+abín (n) (LH) navel; knob (of pot lid) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_abin.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

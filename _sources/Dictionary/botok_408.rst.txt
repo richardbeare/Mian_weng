@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+botok : Scrub Wren. Sericornis (F).
+====================================
+
+
+botok
+
+
+.. raw:: html
+
+   </div>
+
+botok (n) (L) Scrub Wren. Sericornis (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_botok.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

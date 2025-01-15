@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+maanafâ’namin : cut (meat) (PFV).
+==================================
+
+
+maanafanamin
+
+
+.. raw:: html
+
+   </div>
+
+maanafâ’namin (v/tr) (LHL) cut (meat) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_maanafanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+yang : sharp.
+==============
+
+
+yang
+
+
+.. raw:: html
+
+   </div>
+
+yang (adj) (L) sharp.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_yang.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kaanamin : die (PFV).
+======================
+
+
+kaanamin
+
+
+.. raw:: html
+
+   </div>
+
+kaanamin (v/intr) (L) die (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kaanamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+asyang : sharp or pointed stick (N1).
+======================================
+
+
+asyang
+
+
+.. raw:: html
+
+   </div>
+
+asyang (n) (L) sharp or pointed stick (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_asyang.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

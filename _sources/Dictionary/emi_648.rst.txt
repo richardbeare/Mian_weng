@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+emì : his (M), its (N1).
+=========================
+
+
+emi
+
+
+.. raw:: html
+
+   </div>
+
+emì (pron) (HL) his (M), its (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_emi.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

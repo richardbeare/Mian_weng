@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fibâmin : tremble, shake (BI-ASP/IPFV).
+========================================
+
+
+fibamin
+
+
+.. raw:: html
+
+   </div>
+
+fibâmin (v/ambitr) (LHL) tremble, shake (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fibamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

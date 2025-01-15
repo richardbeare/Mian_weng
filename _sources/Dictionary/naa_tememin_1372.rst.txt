@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+naa temê’min : try (IPFV).
+===========================
+
+
+naa_tememin
+
+
+.. raw:: html
+
+   </div>
+
+naa temê’min (svc/tr) (L/LHL) try (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_naa_tememin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

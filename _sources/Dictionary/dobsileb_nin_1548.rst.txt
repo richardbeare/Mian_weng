@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dobsilêb nin : set out after, follow directly (PFV).
+=====================================================
+
+
+dobsileb_nin
+
+
+.. raw:: html
+
+   </div>
+
+dobsilêb nin (v/tr) (LHL/L) set out after, follow directly (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dobsileb_nin.LHL-L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

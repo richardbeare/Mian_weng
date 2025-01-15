@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+debmôt : Anopheles mosquito (M).
+=================================
+
+
+debmot
+
+
+.. raw:: html
+
+   </div>
+
+debmôt (n) (LHL) Anopheles mosquito (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_debmot.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

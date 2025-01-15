@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+difidifi : species of small red ant (M).
+=========================================
+
+
+difidifi
+
+
+.. raw:: html
+
+   </div>
+
+difidifi (n) (L) species of small red ant (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_difidifi.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

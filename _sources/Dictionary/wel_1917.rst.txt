@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wēl : oil (N1). (TP).
+=======================
+
+
+wel
+
+
+.. raw:: html
+
+   </div>
+
+wēl (n) (H) oil (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wel.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

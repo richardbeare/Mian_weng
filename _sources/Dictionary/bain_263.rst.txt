@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+báin : true.
+=============
+
+
+bain
+
+
+.. raw:: html
+
+   </div>
+
+báin (adj) (LH) true.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bain.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

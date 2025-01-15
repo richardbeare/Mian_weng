@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kinum : eyelid (N1).
+=====================
+
+
+kinum
+
+
+.. raw:: html
+
+   </div>
+
+kinum (n) (L) eyelid (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kinum.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

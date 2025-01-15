@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+hebâmin : lean (BI-ASP/IPFV).
+==============================
+
+
+hebamin
+
+
+.. raw:: html
+
+   </div>
+
+hebâmin (v/intr) (LHL) lean (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_hebamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

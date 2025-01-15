@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+olobmî : yours (SG F) alone.
+=============================
+
+
+olobmi
+
+
+.. raw:: html
+
+   </div>
+
+olobmî (pron) (LHL) yours (SG F) alone.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_olobmi.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

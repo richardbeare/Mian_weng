@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alom : water lizard species (M).
+=================================
+
+
+alom
+
+
+.. raw:: html
+
+   </div>
+
+alom (n) (L) water lizard species (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alom.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

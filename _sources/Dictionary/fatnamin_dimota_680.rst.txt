@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fatnàmin dimotâ : when.
+========================
+
+
+fatnamin_dimota
+
+
+.. raw:: html
+
+   </div>
+
+fatnàmin dimotâ (interrog) (HL/LHL) when.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_fatnamin_dimota.HL-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

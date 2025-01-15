@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mamél : vein, artery (N1).
+===========================
+
+
+mamel
+
+
+.. raw:: html
+
+   </div>
+
+mamél (n) (LH) vein, artery (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mamel.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

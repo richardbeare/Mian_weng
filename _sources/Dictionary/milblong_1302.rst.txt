@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+milblông : bean pod (N1).
+==========================
+
+
+milblong
+
+
+.. raw:: html
+
+   </div>
+
+milblông (n) (LHL) bean pod (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_milblong.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

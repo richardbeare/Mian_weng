@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kubumin : smoke (food), cure (food) (BI-ASP/IPFV).
+===================================================
+
+
+kubumin
+
+
+.. raw:: html
+
+   </div>
+
+kubumin (v/tr) (?L) smoke (food), cure (food) (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kubumin.QL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

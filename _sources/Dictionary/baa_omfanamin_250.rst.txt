@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+baa omfânamin : decide (with wéng ‘speech’ as object) (PFV).
+=============================================================
+
+
+baa_omfanamin
+
+
+.. raw:: html
+
+   </div>
+
+baa omfânamin (svc/tr) (L/LHL) decide (with wéng ‘speech’ as object) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_baa_omfanamin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

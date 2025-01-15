@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blastel : band aid (also flastel) (N1). (TP).
+==============================================
+
+
+blastel
+
+
+.. raw:: html
+
+   </div>
+
+blastel (n) (L) band aid (also flastel) (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_blastel.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dikilânamin : do garden work (PFV).
+====================================
+
+
+dikilanamin
+
+
+.. raw:: html
+
+   </div>
+
+dikilânamin (v/tr) (LHL) do garden work (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dikilanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

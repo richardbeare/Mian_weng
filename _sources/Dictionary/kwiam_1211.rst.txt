@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kwiam : tree kangaroo species (M/F).
+=====================================
+
+
+kwiam
+
+
+.. raw:: html
+
+   </div>
+
+kwiam (n) (L) tree kangaroo species (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kwiam.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

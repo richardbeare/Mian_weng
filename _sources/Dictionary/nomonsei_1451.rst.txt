@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nomonsei : female ghost (F).
+=============================
+
+
+nomonsei
+
+
+.. raw:: html
+
+   </div>
+
+nomonsei (n) (L) female ghost (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nomonsei.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dabiânamin : throw out (embers or ashes) (PFV).
+================================================
+
+
+dabianamin
+
+
+.. raw:: html
+
+   </div>
+
+dabiânamin (v/tr) (LHL) throw out (embers or ashes) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dabianamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

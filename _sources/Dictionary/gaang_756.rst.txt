@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gaang : top part of pot or string bag (N1).
+============================================
+
+
+gaang
+
+
+.. raw:: html
+
+   </div>
+
+gaang (n) (L) top part of pot or string bag (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gaang.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

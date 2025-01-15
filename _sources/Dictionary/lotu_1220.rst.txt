@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+lotu : church (service) (N1). (TP).
+====================================
+
+
+lotu
+
+
+.. raw:: html
+
+   </div>
+
+lotu (n) (L) church (service) (N1). (TP).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_lotu.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

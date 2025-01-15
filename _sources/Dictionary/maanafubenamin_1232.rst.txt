@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+maanafubênamin : lacerate (PFV).
+=================================
+
+
+maanafubenamin
+
+
+.. raw:: html
+
+   </div>
+
+maanafubênamin (v/tr) (LHL) lacerate (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_maanafubenamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

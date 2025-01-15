@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dlatdlât : fast movement of snake tongue.
+==========================================
+
+
+dlatdlat
+
+
+.. raw:: html
+
+   </div>
+
+dlatdlât (id) (LHL) fast movement of snake tongue.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dlatdlat.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+motomâanamin : ascertain, confirm (PFV).
+=========================================
+
+
+motomaanamin
+
+
+.. raw:: html
+
+   </div>
+
+motomâanamin (v/tr) (LHL) ascertain, confirm (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_motomaanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

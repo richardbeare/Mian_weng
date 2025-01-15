@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dolâmin : carve (e.g. a picture or symbol), write (BI-ASP/IPFV).
+=================================================================
+
+
+dolamin
+
+
+.. raw:: html
+
+   </div>
+
+dolâmin (v/tr) (LHL) carve (e.g. a picture or symbol), write (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dolamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+betaamin : remove weeds with hands, cut grass (IPFV).
+======================================================
+
+
+betaamin
+
+
+.. raw:: html
+
+   </div>
+
+betaamin (v/tr) (L) remove weeds with hands, cut grass (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_betaamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atwéi : people from the same clan who live in a different place (PL).
+======================================================================
+
+
+atwei
+
+
+.. raw:: html
+
+   </div>
+
+atwéi (n) (LH) people from the same clan who live in a different place (PL).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_atwei.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

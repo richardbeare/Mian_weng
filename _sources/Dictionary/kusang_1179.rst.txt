@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kusáng : sneeze.
+=================
+
+
+kusang
+
+
+.. raw:: html
+
+   </div>
+
+kusáng (id) (LH) sneeze.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kusang.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sloyabuning : Papuan Harrier. Circus spilothorax (M).
+======================================================
+
+
+sloyabuning
+
+
+.. raw:: html
+
+   </div>
+
+sloyabuning (n) (L) Papuan Harrier. Circus spilothorax (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sloyabuning.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

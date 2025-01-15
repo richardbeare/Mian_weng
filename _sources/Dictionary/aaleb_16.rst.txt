@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aaléb : father (M).
+====================
+
+
+aaleb
+
+
+.. raw:: html
+
+   </div>
+
+aaléb (n) (LH) father (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aaleb.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

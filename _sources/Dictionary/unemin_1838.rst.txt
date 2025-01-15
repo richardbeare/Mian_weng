@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+unêmin : set out, go (IPFV).
+=============================
+
+
+unemin
+
+
+.. raw:: html
+
+   </div>
+
+unêmin (v/intr) (LHL) set out, go (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_unemin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

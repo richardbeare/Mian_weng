@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+balubib : airstrip (lit. plane place) (N2).
+============================================
+
+
+balubib
+
+
+.. raw:: html
+
+   </div>
+
+balubib (n) (?L) airstrip (lit. plane place) (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_balubib.QL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

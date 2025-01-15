@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+età : he (M, EMPH), it (N1, EMPH).
+===================================
+
+
+eta
+
+
+.. raw:: html
+
+   </div>
+
+età (pron) (HL) he (M, EMPH), it (N1, EMPH).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_eta.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

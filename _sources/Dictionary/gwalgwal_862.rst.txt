@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gwalgwal : twins (PL). (redup).
+================================
+
+
+gwalgwal
+
+
+.. raw:: html
+
+   </div>
+
+gwalgwal (n) (L) twins (PL). (redup).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gwalgwal.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

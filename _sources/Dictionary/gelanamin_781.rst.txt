@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gelà’namin : build a ladder to reach a house on stilts (PFV).
+==============================================================
+
+
+gelanamin
+
+
+.. raw:: html
+
+   </div>
+
+gelà’namin (v/tr) (HL) build a ladder to reach a house on stilts (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gelanamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

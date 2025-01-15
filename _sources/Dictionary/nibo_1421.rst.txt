@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+nībo : we (INCL).
+==================
+
+
+nibo
+
+
+.. raw:: html
+
+   </div>
+
+nībo (pron) (H) we (INCL).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_nibo.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

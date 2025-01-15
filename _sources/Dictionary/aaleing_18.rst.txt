@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aaleing : without shame.
+=========================
+
+
+aaleing
+
+
+.. raw:: html
+
+   </div>
+
+aaleing (adv) (L) without shame.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aaleing.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

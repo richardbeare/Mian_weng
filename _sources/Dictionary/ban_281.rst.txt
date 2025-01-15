@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ban : palm, sole (N1).
+=======================
+
+
+ban NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+ban (n) (L) palm, sole (N1).
+
+

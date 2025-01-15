@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atdab : stick (N1).
+====================
+
+
+atdab
+
+
+.. raw:: html
+
+   </div>
+
+atdab (n) (L) stick (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_atdab.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

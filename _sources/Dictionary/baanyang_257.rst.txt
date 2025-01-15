@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+báanyang : chin (Lit. ‘sharp jaw’) (also an interjection expressing assurance) (N1).
+=====================================================================================
+
+
+baanyang
+
+
+.. raw:: html
+
+   </div>
+
+báanyang (n) (LH) chin (Lit. ‘sharp jaw’) (also an interjection expressing assurance) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_baanyang.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

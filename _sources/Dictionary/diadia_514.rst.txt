@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+diadia : quickly.
+==================
+
+
+diadia
+
+
+.. raw:: html
+
+   </div>
+
+diadia (id) (?) quickly.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_diadia.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

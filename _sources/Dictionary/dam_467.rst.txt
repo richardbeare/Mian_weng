@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dam : lamp (N1). (TP).
+=======================
+
+
+dam NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+dam (n) (L) lamp (N1). (TP).
+
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+takanam : armpit (N1).
+=======================
+
+
+takanam
+
+
+.. raw:: html
+
+   </div>
+
+takanam (n) (L) armpit (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_takanam.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

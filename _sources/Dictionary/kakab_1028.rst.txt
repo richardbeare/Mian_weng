@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kakab : lungs (N2).
+====================
+
+
+kakab
+
+
+.. raw:: html
+
+   </div>
+
+kakab (n) (L) lungs (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kakab.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

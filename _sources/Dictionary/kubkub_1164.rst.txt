@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kubkub : down (N1).
+====================
+
+
+kubkub
+
+
+.. raw:: html
+
+   </div>
+
+kubkub (n) (L) down (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kubkub.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

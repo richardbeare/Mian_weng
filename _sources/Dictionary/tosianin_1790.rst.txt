@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tosianin : be afraid of (IPFV).
+================================
+
+
+tosianin
+
+
+.. raw:: html
+
+   </div>
+
+tosianin (v/tr) (L) be afraid of (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tosianin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+koból : cassowary; Northern Cassowary; Dwarf Cassowary. Casuarius; Casuarius casuarius; Casuarius bennetti (F).
+================================================================================================================
+
+
+kobol
+
+
+.. raw:: html
+
+   </div>
+
+koból (n) (LH) cassowary; Northern Cassowary; Dwarf Cassowary. Casuarius; Casuarius casuarius; Casuarius bennetti (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kobol.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

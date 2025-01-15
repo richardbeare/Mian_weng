@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+glukowâa’namin : slacken, come loose (PFV).
+============================================
+
+
+glukowaanamin
+
+
+.. raw:: html
+
+   </div>
+
+glukowâa’namin (v/intr) (LHL) slacken, come loose (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_glukowaanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Hak : Hak river.
+=================
+
+
+Hak
+
+
+.. raw:: html
+
+   </div>
+
+Hak (pn) (L) Hak river.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Hak.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

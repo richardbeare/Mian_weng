@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+neleskîl : myself.
+===================
+
+
+neleskil
+
+
+.. raw:: html
+
+   </div>
+
+neleskîl (pron) (LH) myself.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_neleskil.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+unâal : skin (of man), health (N1).
+====================================
+
+
+unaal
+
+
+.. raw:: html
+
+   </div>
+
+unâal (n) (LHL) skin (of man), health (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_unaal.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

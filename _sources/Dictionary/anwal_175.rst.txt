@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+anwàl : bowstring (N1).
+========================
+
+
+anwal
+
+
+.. raw:: html
+
+   </div>
+
+anwàl (n) (HL) bowstring (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_anwal.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ai : yes (Interjection of assent).
+===================================
+
+
+ai
+
+
+.. raw:: html
+
+   </div>
+
+ai (interj) (n/a) yes (Interjection of assent).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ai.n-a.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

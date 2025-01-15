@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mulub : clan, descendants of one ancestor (M/F).
+=================================================
+
+
+mulub
+
+
+.. raw:: html
+
+   </div>
+
+mulub (n) (L) clan, descendants of one ancestor (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mulub.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

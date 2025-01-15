@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tek : vine; rope (N1).
+=======================
+
+
+tek
+
+
+.. raw:: html
+
+   </div>
+
+tek (n) (L) vine; rope (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tek.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

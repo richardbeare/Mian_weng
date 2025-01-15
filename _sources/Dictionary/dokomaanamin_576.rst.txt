@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+dokomaanamin : dance in the spirit house, joc. rock the house (PFV).
+=====================================================================
+
+
+dokomaanamin
+
+
+.. raw:: html
+
+   </div>
+
+dokomaanamin (v/tr) (L) dance in the spirit house, joc. rock the house (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_dokomaanamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+akuláb : aunt (fathers and mother’s older sister) (F).
+=======================================================
+
+
+akulab
+
+
+.. raw:: html
+
+   </div>
+
+akuláb (n) (LH) aunt (fathers and mother’s older sister) (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_akulab.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

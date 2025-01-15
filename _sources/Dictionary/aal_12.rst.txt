@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+aal : skin, bark (N1 ).
+========================
+
+
+aal
+
+
+.. raw:: html
+
+   </div>
+
+aal (n) (L) skin, bark (N1 ).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_aal.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

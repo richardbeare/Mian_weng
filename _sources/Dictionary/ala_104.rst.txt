@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alá : close friend (of the same sex or same age group) (M/F).
+==============================================================
+
+
+ala
+
+
+.. raw:: html
+
+   </div>
+
+alá (n) (LH) close friend (of the same sex or same age group) (M/F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ala.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

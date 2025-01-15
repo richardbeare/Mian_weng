@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+blelâ’namin : fell, push down, hit; fall (PFV).
+================================================
+
+
+blelanamin
+
+
+.. raw:: html
+
+   </div>
+
+blelâ’namin (v/ambitr) (LHL) fell, push down, hit; fall (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_blelanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

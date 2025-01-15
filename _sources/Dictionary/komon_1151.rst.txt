@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+komón : lime (crushed and heated coral) (N1).
+==============================================
+
+
+komon
+
+
+.. raw:: html
+
+   </div>
+
+komón (n) (LH) lime (crushed and heated coral) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_komon.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

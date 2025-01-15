@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+wambiâ’namin : become blocked, get stuck (PFV).
+================================================
+
+
+wambianamin
+
+
+.. raw:: html
+
+   </div>
+
+wambiâ’namin (v/intr) (LHL) become blocked, get stuck (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_wambianamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

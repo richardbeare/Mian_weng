@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+boliait : thread for weaving string bags from Gnetum gnemon (N1).
+==================================================================
+
+
+boliait
+
+
+.. raw:: html
+
+   </div>
+
+boliait (n) (L) thread for weaving string bags from Gnetum gnemon (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_boliait.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

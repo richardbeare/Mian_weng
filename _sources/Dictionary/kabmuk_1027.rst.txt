@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+kabmuk : heel (N1).
+====================
+
+
+kabmuk
+
+
+.. raw:: html
+
+   </div>
+
+kabmuk (n) (L) heel (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_kabmuk.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

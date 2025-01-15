@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+faamin : make body paint (BI-ASP/IPFV).
+========================================
+
+
+faamin NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+faamin (v/tr) (L) make body paint (BI-ASP/IPFV).
+
+

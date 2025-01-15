@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+atí : cyclone (N2).
+====================
+
+
+ati
+
+
+.. raw:: html
+
+   </div>
+
+atí (n) (LH) cyclone (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ati.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

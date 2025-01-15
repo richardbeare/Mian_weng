@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mî’namin : meet, gather (PFV).
+===============================
+
+
+minamin
+
+
+.. raw:: html
+
+   </div>
+
+mî’namin (v/tr) (LHL) meet, gather (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_minamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

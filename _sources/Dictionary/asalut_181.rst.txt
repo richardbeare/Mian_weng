@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+asalût : up in a tree, high up.
+================================
+
+
+asalut
+
+
+.. raw:: html
+
+   </div>
+
+asalût (adv) (LHL) up in a tree, high up.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_asalut.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

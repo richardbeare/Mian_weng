@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+heisônamin : cut off (long, protruding objects) (PFV).
+=======================================================
+
+
+heisonamin
+
+
+.. raw:: html
+
+   </div>
+
+heisônamin (v/tr) (LHL) cut off (long, protruding objects) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_heisonamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

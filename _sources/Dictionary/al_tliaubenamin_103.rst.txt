@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+al tliaubênamin : be angry (PFV).
+==================================
+
+
+al_tliaubenamin
+
+
+.. raw:: html
+
+   </div>
+
+al tliaubênamin (v/tr) (L/LHL) be angry (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_al_tliaubenamin.L-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

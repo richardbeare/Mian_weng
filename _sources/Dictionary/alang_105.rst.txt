@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+alang : traces of something that has been removed (N2).
+========================================================
+
+
+alang
+
+
+.. raw:: html
+
+   </div>
+
+alang (n) (L) traces of something that has been removed (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_alang.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

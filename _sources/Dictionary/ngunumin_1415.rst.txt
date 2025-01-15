@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ngunùmin : spread out (leaves, feathers, blanket, tree bark) (IPFV).
+=====================================================================
+
+
+ngunumin
+
+
+.. raw:: html
+
+   </div>
+
+ngunùmin (v/tr) (HL) spread out (leaves, feathers, blanket, tree bark) (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ngunumin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

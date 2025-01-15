@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ūm : pig or rat nest, spider web (N1).
+=======================================
+
+
+um
+
+
+.. raw:: html
+
+   </div>
+
+ūm (n) (H) pig or rat nest, spider web (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_um.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

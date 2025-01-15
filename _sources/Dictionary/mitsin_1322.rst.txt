@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+mitsîn : trunk end (of a tree) (N1).
+=====================================
+
+
+mitsin
+
+
+.. raw:: html
+
+   </div>
+
+mitsîn (n) (LHL) trunk end (of a tree) (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_mitsin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

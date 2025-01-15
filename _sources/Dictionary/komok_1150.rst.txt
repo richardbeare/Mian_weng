@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+komók : political leader (M).
+==============================
+
+
+komok
+
+
+.. raw:: html
+
+   </div>
+
+komók (n) (LH) political leader (M).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_komok.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

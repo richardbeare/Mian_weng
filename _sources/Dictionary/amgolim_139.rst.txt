@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+amgolîm : mountain, roof (N1).
+===============================
+
+
+amgolim
+
+
+.. raw:: html
+
+   </div>
+
+amgolîm (n) (LHL) mountain, roof (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_amgolim.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

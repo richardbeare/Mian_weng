@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+akimkím : tree roots (N2).
+===========================
+
+
+akimkim
+
+
+.. raw:: html
+
+   </div>
+
+akimkím (n) (LH) tree roots (N2).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_akimkim.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

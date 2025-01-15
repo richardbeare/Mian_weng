@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Ūnekle : Unekle (place name).
+===============================
+
+
+Unekle
+
+
+.. raw:: html
+
+   </div>
+
+Ūnekle (pn) (?H) Unekle (place name).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Unekle.QH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

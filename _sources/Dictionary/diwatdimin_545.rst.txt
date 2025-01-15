@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+diwatdîmin : sweep into the fire (BI-ASP/IPFV).
+================================================
+
+
+diwatdimin
+
+
+.. raw:: html
+
+   </div>
+
+diwatdîmin (v/tr) (LHL) sweep into the fire (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_diwatdimin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

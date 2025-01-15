@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+situbû’namin : knead (taro dough) (BI-ASP/PFV).
+================================================
+
+
+situbunamin
+
+
+.. raw:: html
+
+   </div>
+
+situbû’namin (v/tr) (LHL) knead (taro dough) (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_situbunamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

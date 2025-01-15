@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ató : part of something (N1).
+==============================
+
+
+ato
+
+
+.. raw:: html
+
+   </div>
+
+ató (n) (LH) part of something (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ato.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

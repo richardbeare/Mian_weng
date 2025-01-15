@@ -1,0 +1,18 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+fubâmin : wash (hands, body, clothes) (BI-ASP/IPFV).
+=====================================================
+
+
+fubamin NoWav 
+
+
+.. raw:: html
+
+   </div>
+
+fubâmin (v/tr) (LHL) wash (hands, body, clothes) (BI-ASP/IPFV).
+
+

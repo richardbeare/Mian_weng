@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+telônamin : cut off (PL object) (PFV).
+=======================================
+
+
+telonamin
+
+
+.. raw:: html
+
+   </div>
+
+telônamin (v/tr) (LHL) cut off (PL object) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_telonamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

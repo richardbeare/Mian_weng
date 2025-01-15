@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+benamin : pull back (BI-ASP/PFV).
+==================================
+
+
+benamin
+
+
+.. raw:: html
+
+   </div>
+
+benamin (v/tr) (L) pull back (BI-ASP/PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_benamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+komonsân : Magnificient Bird of Paradise. Cicinnurus magnificus (F).
+=====================================================================
+
+
+komonsan
+
+
+.. raw:: html
+
+   </div>
+
+komonsân (n) (LHL) Magnificient Bird of Paradise. Cicinnurus magnificus (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_komonsan.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

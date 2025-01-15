@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+delânamin : break apart, separate (PFV).
+=========================================
+
+
+delanamin
+
+
+.. raw:: html
+
+   </div>
+
+delânamin (v/ambitr) (LHL) break apart, separate (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_delanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

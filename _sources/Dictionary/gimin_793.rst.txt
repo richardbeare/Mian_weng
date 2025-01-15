@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gimin : laugh (BI-ASP/IPFV).
+=============================
+
+
+gimin
+
+
+.. raw:: html
+
+   </div>
+
+gimin (v/intr) (L) laugh (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gimin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

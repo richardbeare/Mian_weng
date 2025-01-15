@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+klenin : rustle (of leaves, etc.) (IPFV).
+==========================================
+
+
+klenin
+
+
+.. raw:: html
+
+   </div>
+
+klenin (v/intr) (L) rustle (of leaves, etc.) (IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_klenin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+Dimobib : Dimobib (place where Mian peoples’ spirits go after death).
+======================================================================
+
+
+Dimobib
+
+
+.. raw:: html
+
+   </div>
+
+Dimobib (pn) (?) Dimobib (place where Mian peoples’ spirits go after death).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_Dimobib.Q.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

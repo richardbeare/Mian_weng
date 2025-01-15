@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bekemin : accompany (BI-ASP/IPFV).
+===================================
+
+
+bekemin
+
+
+.. raw:: html
+
+   </div>
+
+bekemin (v/tr) (L) accompany (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bekemin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

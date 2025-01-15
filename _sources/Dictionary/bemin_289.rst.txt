@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bemin : pull back (BI-ASP/IPFV).
+=================================
+
+
+bemin
+
+
+.. raw:: html
+
+   </div>
+
+bemin (v/tr) (L) pull back (BI-ASP/IPFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bemin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

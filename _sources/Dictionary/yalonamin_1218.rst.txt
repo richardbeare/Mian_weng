@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+yalònamin : hit, kill (PFV).
+=============================
+
+
+yalonamin
+
+
+.. raw:: html
+
+   </div>
+
+yalònamin (v/tr) (HL) hit, kill (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_yalonamin.HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

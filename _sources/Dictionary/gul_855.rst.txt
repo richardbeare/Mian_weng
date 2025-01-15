@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+gúl : scar (N1).
+=================
+
+
+gul
+
+
+.. raw:: html
+
+   </div>
+
+gúl (n) (LH) scar (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_gul.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

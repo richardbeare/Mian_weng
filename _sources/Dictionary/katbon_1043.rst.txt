@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+katbon : thin (of objects).
+============================
+
+
+katbon
+
+
+.. raw:: html
+
+   </div>
+
+katbon (adj) (L) thin (of objects).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_katbon.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

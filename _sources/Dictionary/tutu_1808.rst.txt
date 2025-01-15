@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+tutú : Cuckoo-shrike. Coracina (F).
+====================================
+
+
+tutu
+
+
+.. raw:: html
+
+   </div>
+
+tutú (n) (LH) Cuckoo-shrike. Coracina (F).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_tutu.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

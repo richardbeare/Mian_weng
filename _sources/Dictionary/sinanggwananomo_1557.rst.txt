@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+sinanggwananomo : a long time in the future.
+=============================================
+
+
+sinanggwananomo
+
+
+.. raw:: html
+
+   </div>
+
+sinanggwananomo (tn) (?LHL) a long time in the future.
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_sinanggwananomo.QLHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

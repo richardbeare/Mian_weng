@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+hānggo toufà’namin : curve, twist (PFV).
+=========================================
+
+
+hanggo_toufanamin
+
+
+.. raw:: html
+
+   </div>
+
+hānggo toufà’namin (v/intr) (H/HL) curve, twist (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_hanggo_toufanamin.H-HL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

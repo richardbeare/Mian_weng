@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bín tôulalin : bench (N1).
+===========================
+
+
+bin_toulalin
+
+
+.. raw:: html
+
+   </div>
+
+bín tôulalin (n) (LH/LHL) bench (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bin_toulalin.LH-LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+bekelanamin : almost cut off cut, cut so that the ‘cut-off’ bit is still attached (e.g. lid of can, bit of wood) (PFV).
+========================================================================================================================
+
+
+bekelanamin
+
+
+.. raw:: html
+
+   </div>
+
+bekelanamin (v/tr) (L) almost cut off cut, cut so that the ‘cut-off’ bit is still attached (e.g. lid of can, bit of wood) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_bekelanamin.L.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

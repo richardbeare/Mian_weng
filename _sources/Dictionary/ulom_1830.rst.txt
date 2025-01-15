@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ulóm : tree species (N1).
+==========================
+
+
+ulom
+
+
+.. raw:: html
+
+   </div>
+
+ulóm (n) (LH) tree species (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ulom.LH.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

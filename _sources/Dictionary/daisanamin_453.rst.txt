@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+daisânamin : take down (e.g. from a hook); play (e.g. recorded music or video) (PFV).
+======================================================================================
+
+
+daisanamin
+
+
+.. raw:: html
+
+   </div>
+
+daisânamin (v/tr) (LHL) take down (e.g. from a hook); play (e.g. recorded music or video) (PFV).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_daisanamin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+ibbitîn : dust, dirt (N1).
+===========================
+
+
+ibbitin
+
+
+.. raw:: html
+
+   </div>
+
+ibbitîn (n) (LHL) dust, dirt (N1).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ibbitin.LHL.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+

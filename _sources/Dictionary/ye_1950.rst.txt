@@ -1,0 +1,24 @@
+.. raw:: html
+
+   <div style="height: 0; visibility: hidden;">
+
+yē : that (M, DIST), that (N1, DIST).
+======================================
+
+
+ye
+
+
+.. raw:: html
+
+   </div>
+
+yē (pron) (H) that (M, DIST), that (N1, DIST).
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="../Words/JE_ye.H.wav" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
